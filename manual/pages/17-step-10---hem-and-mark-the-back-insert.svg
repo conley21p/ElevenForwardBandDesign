@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="11in" height="8.5in" preserveAspectRatio="xMinYMin meet" viewBox="0 0 792 612" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+	<ns0:title>...</ns0:title>
+	<ns0:desc>...</ns0:desc>
+	<ns0:clipPath id="clip">
+		<ns0:rect x="0" y="0" width="792" height="612" />
+	</ns0:clipPath>
+	<ns0:g id="group" transform="scale(1,-1) translate(0,-612)" style="clip-path: url(#clip)">
+		<ns0:g transform="">
+			<ns0:rect x="0" y="0" width="792" height="612" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<ns0:rect x="0" y="605" width="792" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="32" y="580" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,1160) scale(1,-1)">ASSEMBLY / STEP 10</ns0:text>
+			<ns0:text x="32" y="553" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,1106) scale(1,-1)">Hem and mark the back insert</ns0:text>
+			<ns0:text x="32" y="527" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,1054) scale(1,-1)">Parts #4, #6 | HEM: coverstitch</ns0:text>
+			<ns0:path d="M 32,508 L 760,508 Z" style="stroke: rgb(78%,83%,85%); stroke-linecap: butt; stroke-width: 1;" />
+			<ns0:text x="32" y="22" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,44) scale(1,-1)">ELEVEN FORWARD  /  EFBD-2026-10-14-R2  /  PROTOTYPE - PHYSICAL FIT NOT VERIFIED</ns0:text>
+			<ns0:text x="749.992" y="22" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,44) scale(1,-1)">17</ns0:text>
+			<ns0:rect x="32" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="40" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">BEFORE</ns0:text>
+			<ns0:polygon points="77 449, 95 449, 95 350, 77 350" style="stroke: rgb(12%,20%,23%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:path d="M 72,431 L 100,431 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:path d="M 72,368 L 100,368 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:text x="41" y="328" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,656) scale(1,-1)">Top / body / bottom</ns0:text>
+			<ns0:text x="41" y="315" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,630) scale(1,-1)">2 / 7 / 2 in</ns0:text>
+			<ns0:rect x="180" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="188" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">ACTION</ns0:text>
+			<ns0:polygon points="225 449, 243 449, 243 350, 225 350" style="stroke: rgb(12%,20%,23%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:path d="M 220,431 L 248,431 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:path d="M 220,368 L 248,368 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:path d="M 225,449 L 243,449 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 2;" />
+			<ns0:path d="M 225,350 L 243,350 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 2;" />
+			<ns0:text x="189" y="328" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,656) scale(1,-1)">Top / body / bottom</ns0:text>
+			<ns0:text x="189" y="315" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,630) scale(1,-1)">2 / 7 / 2 in</ns0:text>
+			<ns0:rect x="328" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="336" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">CHECKED RESULT</ns0:text>
+			<ns0:polygon points="373 449, 391 449, 391 350, 373 350" style="stroke: rgb(12%,20%,23%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:path d="M 368,431 L 396,431 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:path d="M 368,368 L 396,368 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:path d="M 373,449 L 391,449 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 2;" />
+			<ns0:path d="M 373,350 L 391,350 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 2;" />
+			<ns0:text x="337" y="328" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,656) scale(1,-1)">Top / body / bottom</ns0:text>
+			<ns0:text x="337" y="315" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,630) scale(1,-1)">2 / 7 / 2 in</ns0:text>
+			<ns0:text x="32" y="279" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,558) scale(1,-1)">WHAT TO DO</ns0:text>
+			<ns0:text x="32" y="259" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,518) scale(1,-1)">1.</ns0:text>
+			<ns0:text x="49" y="259" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,518) scale(1,-1)">Turn the short top and bottom edges by 0.25 inch; coverstitch using the qualified needle</ns0:text>
+			<ns0:text x="49" y="246" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,492) scale(1,-1)">spacing and hem coupon.</ns0:text>
+			<ns0:text x="32" y="226" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,452) scale(1,-1)">2.</ns0:text>
+			<ns0:text x="49" y="226" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,452) scale(1,-1)">Finish before the long side seams. Do not stretch the narrow insert through the foot.</ns0:text>
+			<ns0:text x="32" y="206" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,412) scale(1,-1)">3.</ns0:text>
+			<ns0:text x="49" y="206" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,412) scale(1,-1)">Mark the finished side edge into top 2 / middle 7 / bottom 2-inch sections.</ns0:text>
+			<ns0:text x="32" y="186" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,372) scale(1,-1)">4.</ns0:text>
+			<ns0:text x="49" y="186" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,372) scale(1,-1)">Retain 0.25-inch side seam allowances; secure all coverstitch ends per machine manual.</ns0:text>
+			<ns0:text x="500" y="479" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,958) scale(1,-1)">SEWING OPERATION</ns0:text>
+			<ns0:text x="500" y="458" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,916) scale(1,-1)">Finish insert ends / selected allowances - two-needle</ns0:text>
+			<ns0:text x="500" y="444" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,888) scale(1,-1)">coverseam; confirm formation</ns0:text>
+			<ns0:text x="500" y="422" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,844) scale(1,-1)">Joining allowance: 0.25 in where specified. Use the approved</ns0:text>
+			<ns0:text x="500" y="409" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,818) scale(1,-1)">coupon settings.</ns0:text>
+			<ns0:text x="500" y="381" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(18%,41%,31%); stroke:none;" transform="translate(0,762) scale(1,-1)">CHECK BEFORE CONTINUING</ns0:text>
+			<ns0:text x="500" y="362" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,724) scale(1,-1)">- Finished insert height is 11 inches.</ns0:text>
+			<ns0:text x="500" y="339" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,678) scale(1,-1)">- Marks align with the future body-to-band seam</ns0:text>
+			<ns0:text x="500" y="325" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,650) scale(1,-1)">junctions.</ns0:text>
+			<ns0:text x="500" y="297" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(67%,22%,22%); stroke:none;" transform="translate(0,594) scale(1,-1)">AVOID THIS</ns0:text>
+			<ns0:text x="500" y="278" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,556) scale(1,-1)">Do not reduce the insert to body-only height: it must</ns0:text>
+			<ns0:text x="500" y="264" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,528) scale(1,-1)">also bridge both bands.</ns0:text>
+			<ns0:text x="500" y="235" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,470) scale(1,-1)">RECORD</ns0:text>
+			<ns0:text x="500" y="217" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,434) scale(1,-1)">Operator / date / coupon ID / pass or issue. Stop and review</ns0:text>
+			<ns0:text x="500" y="204" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,408) scale(1,-1)">dependent parts if the check fails.</ns0:text>
+			<ns0:rect x="500" y="158" width="100" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:rect x="500" y="150" width="100" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,62%,65%); fill-rule: evenodd;" />
+			<ns0:path d="M 505,139 L 595,139 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 2;" />
+			<ns0:text x="610" y="154" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,308) scale(1,-1)">Layer schematic</ns0:text>
+		</ns0:g>
+	</ns0:g>
+<ns0:a href="16-step-09---attach-the-upper-support.svg"><ns0:text x="560" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Previous</ns0:text></ns0:a><ns0:a href="18-step-11---fold-the-two-open-edge-bands.svg"><ns0:text x="665" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Next</ns0:text></ns0:a></ns0:svg>

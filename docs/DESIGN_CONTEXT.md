@@ -1,30 +1,32 @@
-# Design context and remaining work
+# Design context and prototype status
 
-## Accepted design evolution
+The active dimensions and materials are generated in [DESIGN_SPEC.md](DESIGN_SPEC.md) from shared data. This file records intent and unresolved physical work rather than duplicating those values.
 
-- The original concept used a black support sleeve with an outer pouch cover and lime detailing.
-- The exterior changed to a smooth moisture-wicking compression knit around the band.
-- Separate front cover and expansion gussets were removed. The outer body now incorporates additional fabric at the pouch zone.
-- The bag changed to horizontal orientation and remains a sizing reference only.
-- Two interior support pieces now retain the bag above and below; both flange cutouts are on the left in the drawing.
-- Outer body dimensions settled at 34 inches wide, 7 inches base height, and 8 inches maximum height.
-- A 2 × 7-inch higher-stretch center-back insert joins the body ends.
-- The top band changed from narrow elastic to a smooth matte fabric panel. Its contour was then removed, making it uniformly 2 inches tall.
-- The bottom elastic binding (#5) was removed and replaced by a second identical #3 panel. Only one #3 section remains in the drawing, marked Qty 2.
+## Accepted construction
 
-## Resolve before pattern release
+- The outer body includes the extra fabric at the pouch zone; there is no separate front cover or gusset.
+- The bag lies horizontally. Lower and upper interior supports both retain it, with flange cutouts on the diagram's left side.
+- Top and bottom bands use identical folded double-layer pieces. Their ends remain open and terminate at the elastic back insert, as the body ends do.
+- The insert spans the full assembled side height. Its short ends are hemmed before its long edges are sewn to the body-and-bands assembly.
+- Slip-on construction supersedes the earlier hook-and-eye concept. IDs #5 (separate bottom binding) and #7 (closure) are retired, not reused.
+- Finished targets and cut outlines are separate. Joining allowances and turned hems are specified by the shared source. The original flat dimensions are not blindly treated as cut sizes.
 
-- Select actual bag model, flange dimensions, anatomical side, outlet clearance, and insertion/emptying access.
-- Establish target size, body measurements, negative ease, seam allowances, seam types, fabric stretch direction, and cutting dimensions.
-- Validate the outward volume created by the extra fabric in #1, including fit as the pouch fills.
-- Determine how #2a and #2b attach, overlap or meet, and retain the pouch without obstructing its flange or outlet.
-- Resolve center-back closure construction. #7 remains in the SVG from the underband reference, but a closed elastic back insert and two identical continuous edge bands create an unresolved closure interface. One hook-and-eye set is not yet a complete opening/closing plan. Do not silently remove it or assume a finalized fastening configuration.
-- Determine whether #3 needs lining, enclosed elastic or reinforcement, and how both copies accommodate the back insert's stretch. Any added layers change the material count.
-- Establish final assembled garment height: the 7/8-inch dimensions describe #1, not necessarily the complete garment once 2-inch bands and seams are added.
-- Confirm comfort, stretch recovery, movement, seam durability, laundering and pouch access on a prototype. The diagram makes no validated medical or performance claim.
+## Why the sequence changed
 
-## Handoff conventions
+Closing edge bands into independent loops would bypass the back insert. Instead, finish the pockets, hem the insert, fold the two open bands, attach them to the body while flat, then sew two full-height back seams. Match both body/band junctions at each insert edge. This is the only active sequence.
 
-The SVG is the current editable visual source. Documents describe the same snapshot; older generated product renders and intermediate diagrams are not included because their geometry/materials differ from this design. Keep #5 absent to preserve the user's part references. Update the part table and count when construction changes.
+The taller expansion zone changes the curved seam length, not just the silhouette. Baste the locally distributed excess and check depth before permanent sewing. The planned outward-depth target remains a test requirement, not proof of bag capacity.
 
-No third-party reference photos, private workspace files, conversation exports, or credentials are included. Repository visibility does not establish a license; choose one separately if desired.
+## Required physical work
+
+Select actual fabrics, machines and reference pouch/flange. Approve sewing coupons and actual extension/recovery. Validate insertion, removal, outlet access, retention, skin-side seam comfort and laundering. The top and bottom bands, seam junctions or insert hems may limit stretch even if the insert fabric is more elastic.
+
+The perimeter-attachment and free-edge treatments are prototype construction choices. Stop at the fitting checkpoints if flange or outlet access is restricted. A pattern or material change must update both the layout and affected instructions and invalidate the relevant results.
+
+Current status is in `design/design-spec.json`. All physical tests remain requires retest; no sample has been sewn or measured by this digital implementation.
+
+## History and source boundaries
+
+The previous published layout is saved under `design/history/`. Its dimensions, closure and band construction are historical and must not be used for the current build. Earlier generated product photos also describe superseded configurations and are not included as current manufacturing references.
+
+This repository contains only design artifacts and documentation, not private source photographs or conversation exports. Proposed materials are not verified supplier products or Dri-FIT-certified fabric. Research is paraphrased with links, and standards are cited for terminology or laboratory-method context only.

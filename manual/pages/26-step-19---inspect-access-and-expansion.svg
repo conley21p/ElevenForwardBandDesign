@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="11in" height="8.5in" preserveAspectRatio="xMinYMin meet" viewBox="0 0 792 612" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+	<ns0:title>...</ns0:title>
+	<ns0:desc>...</ns0:desc>
+	<ns0:clipPath id="clip">
+		<ns0:rect x="0" y="0" width="792" height="612" />
+	</ns0:clipPath>
+	<ns0:g id="group" transform="scale(1,-1) translate(0,-612)" style="clip-path: url(#clip)">
+		<ns0:g transform="">
+			<ns0:rect x="0" y="0" width="792" height="612" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<ns0:rect x="0" y="605" width="792" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="32" y="580" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,1160) scale(1,-1)">ASSEMBLY / STEP 19</ns0:text>
+			<ns0:text x="32" y="553" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,1106) scale(1,-1)">Inspect access and expansion</ns0:text>
+			<ns0:text x="32" y="527" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,1054) scale(1,-1)">Parts #1, #2a, #2b, #3, #4 | EASE: hand basting then serger</ns0:text>
+			<ns0:path d="M 32,508 L 760,508 Z" style="stroke: rgb(78%,83%,85%); stroke-linecap: butt; stroke-width: 1;" />
+			<ns0:text x="32" y="22" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,44) scale(1,-1)">ELEVEN FORWARD  /  EFBD-2026-10-14-R2  /  PROTOTYPE - PHYSICAL FIT NOT VERIFIED</ns0:text>
+			<ns0:text x="749.992" y="22" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,44) scale(1,-1)">26</ns0:text>
+			<ns0:rect x="32" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="40" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">BEFORE</ns0:text>
+			<ns0:path d="M 52,437 L 52,339 Z" style="stroke: rgb(12%,20%,23%); stroke-linecap: butt; stroke-width: 2;" />
+			<ns0:polygon points="52 429, 57 402, 67 387, 57 368, 52 345" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,87%,83%); fill-rule: evenodd;" />
+			<ns0:path d="M 52,387 L 67,387 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="67 387, 61.59732 384.3902, 61.59732 389.6098" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1; fill: rgb(64%,32%,7%); fill-rule: evenodd;" />
+			<ns0:text x="40" y="320" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,640) scale(1,-1)">Reference plane</ns0:text>
+			<ns0:rect x="180" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="188" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">ACTION</ns0:text>
+			<ns0:path d="M 200,437 L 200,339 Z" style="stroke: rgb(12%,20%,23%); stroke-linecap: butt; stroke-width: 2;" />
+			<ns0:polygon points="200 429, 225 402, 235 387, 225 368, 200 345" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,87%,83%); fill-rule: evenodd;" />
+			<ns0:path d="M 200,387 L 235,387 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="235 387, 229.5973 384.3902, 229.5973 389.6098" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1; fill: rgb(64%,32%,7%); fill-rule: evenodd;" />
+			<ns0:text x="188" y="320" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,640) scale(1,-1)">Progressive gauge</ns0:text>
+			<ns0:rect x="328" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="336" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">CHECKED RESULT</ns0:text>
+			<ns0:path d="M 348,437 L 348,339 Z" style="stroke: rgb(12%,20%,23%); stroke-linecap: butt; stroke-width: 2;" />
+			<ns0:polygon points="348 429, 393 402, 403 387, 393 368, 348 345" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,87%,83%); fill-rule: evenodd;" />
+			<ns0:path d="M 348,387 L 403,387 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="403 387, 397.5973 384.3902, 397.5973 389.6098" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1; fill: rgb(64%,32%,7%); fill-rule: evenodd;" />
+			<ns0:text x="336" y="320" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,640) scale(1,-1)">Target 1.5 in</ns0:text>
+			<ns0:text x="32" y="279" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,558) scale(1,-1)">WHAT TO DO</ns0:text>
+			<ns0:text x="32" y="259" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,518) scale(1,-1)">1.</ns0:text>
+			<ns0:text x="49" y="259" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,518) scale(1,-1)">On the fixture, insert the reference and test intermediate depth before the 1.5-inch target.</ns0:text>
+			<ns0:text x="32" y="239" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,478) scale(1,-1)">2.</ns0:text>
+			<ns0:text x="49" y="239" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,478) scale(1,-1)">Measure perpendicular to the local body plane at the fullest part, not from the outer band</ns0:text>
+			<ns0:text x="49" y="226" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,452) scale(1,-1)">edge.</ns0:text>
+			<ns0:text x="32" y="206" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,412) scale(1,-1)">3.</ns0:text>
+			<ns0:text x="49" y="206" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,412) scale(1,-1)">Check flange/outlet access, retention, recovery and smooth band placement at each stage.</ns0:text>
+			<ns0:text x="32" y="186" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,372) scale(1,-1)">4.</ns0:text>
+			<ns0:text x="49" y="186" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,372) scale(1,-1)">Assess required slip-on extension on a suitable fixture; record the limiting material or seam.</ns0:text>
+			<ns0:text x="500" y="479" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,958) scale(1,-1)">SEWING OPERATION</ns0:text>
+			<ns0:text x="500" y="458" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,916) scale(1,-1)">Ease expansion into straight bands - temporary basting</ns0:text>
+			<ns0:text x="500" y="444" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,888) scale(1,-1)">then qualified JOIN</ns0:text>
+			<ns0:text x="500" y="422" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,844) scale(1,-1)">Joining allowance: 0.25 in where specified. Use the approved</ns0:text>
+			<ns0:text x="500" y="409" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,818) scale(1,-1)">coupon settings.</ns0:text>
+			<ns0:text x="500" y="381" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(18%,41%,31%); stroke:none;" transform="translate(0,762) scale(1,-1)">CHECK BEFORE CONTINUING</ns0:text>
+			<ns0:text x="500" y="362" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,724) scale(1,-1)">- No broken stitches, blocked opening or loss of</ns0:text>
+			<ns0:text x="500" y="348" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,696) scale(1,-1)">retention.</ns0:text>
+			<ns0:text x="500" y="325" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,650) scale(1,-1)">- Any failed function returns the affected pattern and</ns0:text>
+			<ns0:text x="500" y="311" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,622) scale(1,-1)">instructions to review.</ns0:text>
+			<ns0:text x="500" y="283" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(67%,22%,22%); stroke:none;" transform="translate(0,566) scale(1,-1)">AVOID THIS</ns0:text>
+			<ns0:text x="500" y="264" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,528) scale(1,-1)">Passing a fixture check is not a measured compression</ns0:text>
+			<ns0:text x="500" y="250" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,500) scale(1,-1)">or clinical performance claim.</ns0:text>
+			<ns0:text x="500" y="221" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,442) scale(1,-1)">RECORD</ns0:text>
+			<ns0:text x="500" y="203" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,406) scale(1,-1)">Operator / date / coupon ID / pass or issue. Stop and review</ns0:text>
+			<ns0:text x="500" y="190" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,380) scale(1,-1)">dependent parts if the check fails.</ns0:text>
+		</ns0:g>
+	</ns0:g>
+<ns0:a href="25-step-18---secure-and-finish-the-seams.svg"><ns0:text x="560" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Previous</ns0:text></ns0:a><ns0:a href="27-step-20---record-the-prototype-results.svg"><ns0:text x="665" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Next</ns0:text></ns0:a></ns0:svg>

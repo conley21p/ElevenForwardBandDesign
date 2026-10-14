@@ -1,0 +1,472 @@
+[
+  {
+    "number": 1,
+    "id": "S01",
+    "title": "Prepare the fabrics",
+    "parts": [
+      "1",
+      "2a",
+      "2b",
+      "3",
+      "4"
+    ],
+    "operation": "CUT",
+    "diagram": "materials",
+    "actions": [
+      "Record supplier, lot, fiber content and care instructions for every material.",
+      "Condition or prewash according to supplier instructions; let fabric relax flat before measuring.",
+      "Mark right/wrong sides. Orient greatest usable stretch around the wearer, including across the narrow back insert.",
+      "Compare recovery of single body fabric, doubled band fabric and the insert. Keep test offcuts."
+    ],
+    "checks": [
+      "No distorted or damaged fabric enters cutting.",
+      "The insert stretches more than the body; doubled bands are checked separately."
+    ],
+    "mistake": "Do not infer stretch from material names or pull the fabric while cutting."
+  },
+  {
+    "number": 2,
+    "id": "S02",
+    "title": "Qualify each seam on coupons",
+    "parts": [
+      "1",
+      "2a",
+      "2b",
+      "3",
+      "4",
+      "6"
+    ],
+    "operation": "JOIN",
+    "diagram": "coupon",
+    "actions": [
+      "Thread using the machine manual; record needle system, size and thread in each position.",
+      "Sew body-plus-insert, folded-band-plus-body and pocket-on-body coupons using the same layers as the garment.",
+      "Start with the manufacturer knit setting. Change only one setting at a time until feeding is flat.",
+      "Extend through the intended assembly use, release, and inspect. Keep the approved coupon and settings record."
+    ],
+    "checks": [
+      "No thread cracking, skipped stitches, needle cuts or persistent waves.",
+      "Retest after thread, needle, material or layer changes."
+    ],
+    "mistake": "No universal tension number or stitch length can substitute for these coupons."
+  },
+  {
+    "number": 3,
+    "id": "S03",
+    "title": "Cut and mark six textile pieces",
+    "parts": [
+      "1",
+      "2a",
+      "2b",
+      "3",
+      "4"
+    ],
+    "operation": "CUT",
+    "diagram": "cut",
+    "actions": [
+      "Use the catalog cutting outlines, not the finished seam-line silhouettes. Cut two identical open #3 strips.",
+      "Transfer center-front, pouch-zone boundaries, band midpoints and back-insert section marks into allowances.",
+      "Keep both support cutouts on the diagram left when viewed from inside. Mirror vertically for the upper support.",
+      "Mark free insertion edges in removable chalk. Do not snip notches into the finished seam line."
+    ],
+    "checks": [
+      "Six pieces counted; cut lines and finished lines remain distinguishable.",
+      "No added hardware or closed band loops."
+    ],
+    "mistake": "A finished {band_h}-inch band needs a {band_cut_h}-inch cut strip before folding."
+  },
+  {
+    "number": 4,
+    "id": "S04",
+    "title": "Finish the lower free edge",
+    "parts": [
+      "2a",
+      "6"
+    ],
+    "operation": "EDGE",
+    "diagram": "lower_edge",
+    "actions": [
+      "Test the cutout curve on scrap before handling the actual support.",
+      "Overedge only the free upper edge, including the left flange cutout, with the soft qualified edge finish.",
+      "Guide the curve without stretching it. Keep the knife from changing the finished opening.",
+      "Secure the chain tail with a blunt needle through the stitching; keep a sample for comparison."
+    ],
+    "checks": [
+      "Flange opening retains its shape without a tight corded edge.",
+      "Sides and bottom still retain their attachment allowances."
+    ],
+    "mistake": "Do not finish the cutout with a nonstretch straight seam or sew the opening shut."
+  },
+  {
+    "number": 5,
+    "id": "S05",
+    "title": "Finish the upper free edge",
+    "parts": [
+      "2b",
+      "6"
+    ],
+    "operation": "EDGE",
+    "diagram": "upper_edge",
+    "actions": [
+      "Lay the upper support in interior orientation: cutout on its lower left.",
+      "Finish the lower insertion edge and cutout using the same approved soft overedge operation.",
+      "Control the curve and secure tails without trimming into the flange clearance.",
+      "Place both supports together and confirm their cutouts face one another."
+    ],
+    "checks": [
+      "Both flange reliefs are on the same diagram side.",
+      "The opposed free edges stay flexible and accessible."
+    ],
+    "mistake": "A 180-degree rotation moves the cutout to the wrong side; use a vertical reflection."
+  },
+  {
+    "number": 6,
+    "id": "S06",
+    "title": "Position the interior supports",
+    "parts": [
+      "1",
+      "2a",
+      "2b"
+    ],
+    "operation": "POCKET",
+    "diagram": "position",
+    "actions": [
+      "Lay #1 wrong side up. Center the bag envelope in the {zone}-inch pouch zone.",
+      "Turn under the {sa}-inch attachment allowances on support sides and outer perimeter, keeping free edges unfolded.",
+      "Place lower and upper supports around the bag envelope; align opposed cutouts around the flange.",
+      "Clip and mark the attachment perimeter. Remove the bag before any needle enters the work."
+    ],
+    "checks": [
+      "Support width is centered within the expansion zone.",
+      "The facing free edges, flange and outlet remain outside attachment lines."
+    ],
+    "mistake": "Do not sew the supports to each other across the central insertion opening."
+  },
+  {
+    "number": 7,
+    "id": "S07",
+    "title": "Baste and check support access",
+    "parts": [
+      "1",
+      "2a",
+      "2b"
+    ],
+    "operation": "POCKET",
+    "diagram": "depth",
+    "actions": [
+      "Baste the turned attachment perimeters through the supports and body only.",
+      "Insert the horizontal reference bag or mock-up; check insertion, removal and outlet access.",
+      "Use the depth gauge progressively up to {depth} inch outward from the local body plane. Check retention without forcing.",
+      "Remove the reference before sewing. If clearance fails, record the change needed and revise the shared design first."
+    ],
+    "checks": [
+      "No flange or outlet obstruction at the tested depth.",
+      "Record this as preliminary support fit, not final garment validation."
+    ],
+    "mistake": "A flat bag fitting does not prove that a filled pouch will fit."
+  },
+  {
+    "number": 8,
+    "id": "S08",
+    "title": "Attach the lower support",
+    "parts": [
+      "1",
+      "2a",
+      "6"
+    ],
+    "operation": "POCKET",
+    "diagram": "lower_attach",
+    "actions": [
+      "Keep #1 open and flat, wrong side up; move the upper support clear.",
+      "Use the approved stretch zigzag along the turned side and bottom perimeter, about 1/8 inch inside the folded edge.",
+      "Begin and end at the free-edge junctions. Secure ends with the tested machine method without a bulky dense tack.",
+      "Remove basting and check that only the intended layers were caught."
+    ],
+    "checks": [
+      "Free top edge and flange cutout remain unstitched to #1.",
+      "Stitching stays on the turned allowance and extends without cracking."
+    ],
+    "mistake": "Sewing across the free edge blocks insertion and changes the pocket function."
+  },
+  {
+    "number": 9,
+    "id": "S09",
+    "title": "Attach the upper support",
+    "parts": [
+      "1",
+      "2b",
+      "6"
+    ],
+    "operation": "POCKET",
+    "diagram": "upper_attach",
+    "actions": [
+      "Move the lower support clear and retain the marked upper-support position.",
+      "Attach only the turned sides and upper outer perimeter using the same qualified stretch zigzag.",
+      "Secure start/stop points, remove basting and inspect the exterior for puckering.",
+      "Recheck insertion and clearance with both supports attached, then remove the reference bag."
+    ],
+    "checks": [
+      "The lower edge stays open; left cutouts align.",
+      "Both supports retain the reference without a seam crossing the flange."
+    ],
+    "mistake": "Do not accidentally stitch the lower support into the upper perimeter."
+  },
+  {
+    "number": 10,
+    "id": "S10",
+    "title": "Hem and mark the back insert",
+    "parts": [
+      "4",
+      "6"
+    ],
+    "operation": "HEM",
+    "diagram": "insert",
+    "actions": [
+      "Turn the short top and bottom edges by {hem} inch; coverstitch using the qualified needle spacing and hem coupon.",
+      "Finish before the long side seams. Do not stretch the narrow insert through the foot.",
+      "Mark the finished side edge into top {band_h} / middle {base} / bottom {band_h}-inch sections.",
+      "Retain {sa}-inch side seam allowances; secure all coverstitch ends per machine manual."
+    ],
+    "checks": [
+      "Finished insert height is {back_h} inches.",
+      "Marks align with the future body-to-band seam junctions."
+    ],
+    "mistake": "Do not reduce the insert to body-only height: it must also bridge both bands."
+  },
+  {
+    "number": 11,
+    "id": "S11",
+    "title": "Fold the two open edge bands",
+    "parts": [
+      "3"
+    ],
+    "operation": "FOLD",
+    "diagram": "fold",
+    "actions": [
+      "Fold each strip lengthwise, wrong sides together, aligning its two long raw edges.",
+      "Mark midpoint and the boundaries of the centered {zone}-inch attachment zone at the seam line.",
+      "Keep both short ends open with their joining allowances intact. Do not join them into loops.",
+      "Check the two pieces against each other before attaching either."
+    ],
+    "checks": [
+      "Both strips are identical, with {band_h}-inch finished projection after joining.",
+      "Folded outer edges are clean and raw attachment edges align."
+    ],
+    "mistake": "The elastic insert supplies the remaining back width; the bands must not bypass it."
+  },
+  {
+    "number": 12,
+    "id": "S12",
+    "title": "Baste the top band flat",
+    "parts": [
+      "1",
+      "3"
+    ],
+    "operation": "EASE",
+    "diagram": "top_baste",
+    "actions": [
+      "Place the folded top band on the body right side with raw edges aligned at the upper attachment seam.",
+      "Match the center and pouch-zone boundaries, then the straight side sections.",
+      "Distribute the computed {excess}-inch excess only within the shaped zone using fine removable basting.",
+      "Turn the band outward and inspect the expansion shape; do not trim away the extra material."
+    ],
+    "checks": [
+      "No hard pleats or severe puckering; compare with the opposite band.",
+      "Stop and revise pattern or material if the excess cannot be distributed cleanly."
+    ],
+    "mistake": "Do not stretch the entire band or body to hide a local seam-length mismatch."
+  },
+  {
+    "number": 13,
+    "id": "S13",
+    "title": "Sew the top attachment",
+    "parts": [
+      "1",
+      "3",
+      "6"
+    ],
+    "operation": "JOIN",
+    "diagram": "top_sew",
+    "actions": [
+      "Remove the reference bag. Return the band to the basted joining position.",
+      "Join with the qualified four-thread overlock at the {sa}-inch allowance, catching body and both band layers.",
+      "Feed the shaped zone carefully; remove clips before the foot and do not cut the seam line.",
+      "Turn the band outward, settle allowance toward the body and inspect before removing remaining basting."
+    ],
+    "checks": [
+      "Band projects {band_h} inches from its seam to folded edge.",
+      "The body still has outward ease; both short ends remain open."
+    ],
+    "mistake": "Do not catch an interior support or free pocket edge in the band seam."
+  },
+  {
+    "number": 14,
+    "id": "S14",
+    "title": "Baste the bottom and check depth",
+    "parts": [
+      "1",
+      "3"
+    ],
+    "operation": "EASE",
+    "diagram": "bottom_baste",
+    "actions": [
+      "Repeat alignment for the bottom band, with the same centered easing zone and open ends.",
+      "Temporarily clip the full-height insert to both assembled ends at the finished side seams.",
+      "Place on the curved fixture and measure outward depth up to {depth} inch; also check the top band and supports.",
+      "Remove the mock-up and temporary insert clips before returning to the machine."
+    ],
+    "checks": [
+      "Reference remains insertable, removable and retained; outlet accessible.",
+      "Record results. Do not permanently sew if any required clearance fails."
+    ],
+    "mistake": "Do not interpret the {max_h}-inch flat body height as proven outward capacity."
+  },
+  {
+    "number": 15,
+    "id": "S15",
+    "title": "Sew the bottom attachment",
+    "parts": [
+      "1",
+      "3",
+      "6"
+    ],
+    "operation": "JOIN",
+    "diagram": "bottom_sew",
+    "actions": [
+      "After the basting checkpoint passes, join the bottom band using the same allowance and seam formation as the top.",
+      "Catch the body and both band layers without catching the interior supports.",
+      "Turn outward and settle the allowance toward the body without heat that damages elastane.",
+      "Lay the assembly flat and align both full-height end edges for the back-insert seams."
+    ],
+    "checks": [
+      "Top and bottom use identical fabric, folds and finished height.",
+      "Each assembled end matches the insert section marks."
+    ],
+    "mistake": "An unequal seam allowance makes the two bands finish at different heights."
+  },
+  {
+    "number": 16,
+    "id": "S16",
+    "title": "Join the first full-height back seam",
+    "parts": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "operation": "JOIN",
+    "diagram": "back_first",
+    "actions": [
+      "Place one finished insert edge against one end of the body-and-bands assembly, right sides together.",
+      "Match the top edge, upper band seam, lower band seam and bottom edge.",
+      "Sew one continuous qualified overlock seam through top band, body and bottom band at {sa} inch.",
+      "Keep the insert relaxed; grade bulk only after confirming seam security on the coupon."
+    ],
+    "checks": [
+      "Section joins match top {band_h}, middle {base}, bottom {band_h} inches.",
+      "No hard ridge or skipped stitch at the layer transitions."
+    ],
+    "mistake": "Joining only the body leaves both edge bands disconnected from the insert."
+  },
+  {
+    "number": 17,
+    "id": "S17",
+    "title": "Close the second back seam",
+    "parts": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "operation": "JOIN",
+    "diagram": "back_close",
+    "actions": [
+      "Bring the remaining assembly end to the opposite insert edge, right sides together.",
+      "Check that the body and both bands form one untwisted loop. Match all section marks.",
+      "Sew the second full-height seam, taking care not to catch the opposite side of the loop.",
+      "Turn right side out and confirm the insert is centered at the back across the full height."
+    ],
+    "checks": [
+      "Nominal relaxed seam-line circumference is {circ} inches before fabric behavior is evaluated.",
+      "Both bands terminate at the elastic insert rather than closing separately."
+    ],
+    "mistake": "Stop if a band is twisted; do not solve it by cutting or adding an unrecorded seam."
+  },
+  {
+    "number": 18,
+    "id": "S18",
+    "title": "Secure and finish the seams",
+    "parts": [
+      "1",
+      "2a",
+      "2b",
+      "3",
+      "4",
+      "6"
+    ],
+    "operation": "HEM",
+    "diagram": "finish",
+    "actions": [
+      "Secure every overlock and coverstitch end using the approved machine method; trim only loose tails.",
+      "Inspect side joins and band junctions for needle damage, seam cuts and missed layers.",
+      "Use a qualified coverstitch only where a sample shows a comfort benefit from holding allowance flat.",
+      "Keep fold edges and the exterior clean; decoration is optional and must not limit stretch."
+    ],
+    "checks": [
+      "No unsecured chains or rough knots on the skin-facing surface.",
+      "No dense tack or topstitch restricts the back insert."
+    ],
+    "mistake": "Do not pull thread tails until stitches unravel; do not bury bulky knots at the flange."
+  },
+  {
+    "number": 19,
+    "id": "S19",
+    "title": "Inspect access and expansion",
+    "parts": [
+      "1",
+      "2a",
+      "2b",
+      "3",
+      "4"
+    ],
+    "operation": "EASE",
+    "diagram": "depth",
+    "actions": [
+      "On the fixture, insert the reference and test intermediate depth before the {depth}-inch target.",
+      "Measure perpendicular to the local body plane at the fullest part, not from the outer band edge.",
+      "Check flange/outlet access, retention, recovery and smooth band placement at each stage.",
+      "Assess required slip-on extension on a suitable fixture; record the limiting material or seam."
+    ],
+    "checks": [
+      "No broken stitches, blocked opening or loss of retention.",
+      "Any failed function returns the affected pattern and instructions to review."
+    ],
+    "mistake": "Passing a fixture check is not a measured compression or clinical performance claim."
+  },
+  {
+    "number": 20,
+    "id": "S20",
+    "title": "Record the prototype results",
+    "parts": [
+      "1",
+      "2a",
+      "2b",
+      "3",
+      "4",
+      "6"
+    ],
+    "operation": "HEM",
+    "diagram": "record",
+    "actions": [
+      "Record fabric lots, machine settings, dimensions, tested extension and all depth-check observations.",
+      "Launder only by the selected materials care instructions; record actual cycle and drying method.",
+      "Remeasure after relaxation and repeat access, seam and recovery checks.",
+      "Attach dated results and photos to the revision. Leave unperformed checks as requires retest."
+    ],
+    "checks": [
+      "Every claimed pass has a dated record and tested configuration.",
+      "Material or geometry changes invalidate the affected result."
+    ],
+    "mistake": "Do not label an informal wash or stretch check as ISO-compliant testing."
+  }
+]

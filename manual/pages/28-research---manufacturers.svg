@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="11in" height="8.5in" preserveAspectRatio="xMinYMin meet" viewBox="0 0 792 612" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+	<ns0:title>...</ns0:title>
+	<ns0:desc>...</ns0:desc>
+	<ns0:clipPath id="clip">
+		<ns0:rect x="0" y="0" width="792" height="612" />
+	</ns0:clipPath>
+	<ns0:g id="group" transform="scale(1,-1) translate(0,-612)" style="clip-path: url(#clip)">
+		<ns0:g transform="">
+			<ns0:rect x="0" y="0" width="792" height="612" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<ns0:rect x="0" y="605" width="792" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="32" y="580" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,1160) scale(1,-1)">RESEARCH APPENDIX</ns0:text>
+			<ns0:text x="32" y="553" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,1106) scale(1,-1)">Sources and limits</ns0:text>
+			<ns0:text x="32" y="527" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,1054) scale(1,-1)">Source descriptions are paraphrased. Links are live in the SVG index; no standards text is reproduced.</ns0:text>
+			<ns0:path d="M 32,508 L 760,508 Z" style="stroke: rgb(78%,83%,85%); stroke-linecap: butt; stroke-width: 1;" />
+			<ns0:text x="32" y="22" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,44) scale(1,-1)">ELEVEN FORWARD  /  EFBD-2026-10-14-R2  /  PROTOTYPE - PHYSICAL FIT NOT VERIFIED</ns0:text>
+			<ns0:text x="749.992" y="22" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,44) scale(1,-1)">28</ns0:text>
+			<ns0:text x="32" y="482" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,964) scale(1,-1)">AE / American &amp; Efird - Sewing Stretch Knit Fabrics</ns0:text>
+			<ns0:text x="32" y="461" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,922) scale(1,-1)">Operator feeding, stretch seams and sample troubleshooting.</ns0:text>
+			<ns0:text x="32" y="443" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,886) scale(1,-1)">https://www.amefird.com/wp-content/uploads/2010/01/Sewing-Stretch-Kni-tFabrics-2-6-10.pdf</ns0:text>
+			<ns0:text x="32" y="424" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,848) scale(1,-1)">Accessed 2026-10-14 / manufacturer guidance</ns0:text>
+			<ns0:text x="32" y="399" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,798) scale(1,-1)">COATS / Coats - Soft and Secure Seams</ns0:text>
+			<ns0:text x="32" y="378" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,756) scale(1,-1)">Needle / looper thread roles, skin-side softness and extension.</ns0:text>
+			<ns0:text x="32" y="360" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,720) scale(1,-1)">https://www.coats.com/pl/info-hub/about-soft-and-secure-seams-for-activewear-and-intimates/</ns0:text>
+			<ns0:text x="32" y="341" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,682) scale(1,-1)">Accessed 2026-10-14 / manufacturer guidance</ns0:text>
+			<ns0:text x="32" y="316" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,632) scale(1,-1)">SCHMETZ / SCHMETZ - Stretch Needles</ns0:text>
+			<ns0:text x="32" y="295" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,590) scale(1,-1)">Domestic stretch needle characteristics; use the actual machine needle system.</ns0:text>
+			<ns0:text x="32" y="277" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,554) scale(1,-1)">https://www.schmetzneedles.com/products/stretch-sewing-machine-needles</ns0:text>
+			<ns0:text x="32" y="258" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,516) scale(1,-1)">Accessed 2026-10-14 / manufacturer guidance</ns0:text>
+			<ns0:text x="32" y="233" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,466) scale(1,-1)">PEGASUS / Pegasus - Stitch Library</ns0:text>
+			<ns0:text x="32" y="212" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,424) scale(1,-1)">Stitch formation examples; confirm actual machine formation before assigning codes.</ns0:text>
+			<ns0:text x="32" y="194" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,388) scale(1,-1)">https://www.pegasus.co.jp/stitch/index.php?lang=en</ns0:text>
+			<ns0:text x="32" y="175" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,350) scale(1,-1)">Accessed 2026-10-14 / manufacturer guidance</ns0:text>
+			<ns0:rect x="32" y="55" width="728" height="76" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;" />
+			<ns0:rect x="32" y="55" width="3" height="76" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="44" y="111" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,222) scale(1,-1)">NO CERTIFICATION CLAIM</ns0:text>
+			<ns0:text x="44" y="93" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,186) scale(1,-1)">Terminology standards do not certify the product. Coupon and laundering checks here are informal prototype checks; full laboratory procedures require the applicable standard</ns0:text>
+			<ns0:text x="44" y="81" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,162) scale(1,-1)">and equipment.</ns0:text>
+		</ns0:g>
+	</ns0:g>
+<ns0:a href="27-step-20---record-the-prototype-results.svg"><ns0:text x="560" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Previous</ns0:text></ns0:a><ns0:a href="29-research---standards.svg"><ns0:text x="665" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Next</ns0:text></ns0:a></ns0:svg>

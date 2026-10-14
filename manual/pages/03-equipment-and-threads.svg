@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="11in" height="8.5in" preserveAspectRatio="xMinYMin meet" viewBox="0 0 792 612" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+	<ns0:title>...</ns0:title>
+	<ns0:desc>...</ns0:desc>
+	<ns0:clipPath id="clip">
+		<ns0:rect x="0" y="0" width="792" height="612" />
+	</ns0:clipPath>
+	<ns0:g id="group" transform="scale(1,-1) translate(0,-612)" style="clip-path: url(#clip)">
+		<ns0:g transform="">
+			<ns0:rect x="0" y="0" width="792" height="612" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<ns0:rect x="0" y="605" width="792" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="32" y="580" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,1160) scale(1,-1)">REFERENCE / 03</ns0:text>
+			<ns0:text x="32" y="553" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,1106) scale(1,-1)">Equipment, needles and thread</ns0:text>
+			<ns0:text x="32" y="527" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,1054) scale(1,-1)">Manufacturer guidance informs choices; the actual machines and fabric stack determine final setup.</ns0:text>
+			<ns0:path d="M 32,508 L 760,508 Z" style="stroke: rgb(78%,83%,85%); stroke-linecap: butt; stroke-width: 1;" />
+			<ns0:text x="32" y="22" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,44) scale(1,-1)">ELEVEN FORWARD  /  EFBD-2026-10-14-R2  /  PROTOTYPE - PHYSICAL FIT NOT VERIFIED</ns0:text>
+			<ns0:text x="749.992" y="22" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,44) scale(1,-1)">03</ns0:text>
+			<ns0:text x="32" y="475" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,950) scale(1,-1)">MACHINES</ns0:text>
+			<ns0:text x="32" y="448" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,896) scale(1,-1)">Serger: structural four-thread join; soft</ns0:text>
+			<ns0:text x="32" y="433" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,866) scale(1,-1)">three-thread free-edge finish.</ns0:text>
+			<ns0:text x="32" y="400" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,800) scale(1,-1)">Coverstitch: back-insert hems and selected</ns0:text>
+			<ns0:text x="32" y="385" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,770) scale(1,-1)">allowance finishing.</ns0:text>
+			<ns0:text x="32" y="352" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,704) scale(1,-1)">Standard machine: stretch-capable zigzag for</ns0:text>
+			<ns0:text x="32" y="337" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,674) scale(1,-1)">pocket perimeter.</ns0:text>
+			<ns0:text x="32" y="304" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,608) scale(1,-1)">Rotary cutter, clips, removable markers, blunt</ns0:text>
+			<ns0:text x="32" y="289" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,578) scale(1,-1)">needle, gauge and curved fixture.</ns0:text>
+			<ns0:text x="280" y="475" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,950) scale(1,-1)">THREAD ROLES</ns0:text>
+			<ns0:text x="280" y="448" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,896) scale(1,-1)">Polyester needle thread, sized to the fabric and</ns0:text>
+			<ns0:text x="280" y="433" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,866) scale(1,-1)">machine.</ns0:text>
+			<ns0:text x="280" y="400" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,800) scale(1,-1)">Soft textured polyester in loopers where</ns0:text>
+			<ns0:text x="280" y="385" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,770) scale(1,-1)">compatible; check next-to-skin feel.</ns0:text>
+			<ns0:text x="280" y="352" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,704) scale(1,-1)">Use matching black for structural seams;</ns0:text>
+			<ns0:text x="280" y="337" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,674) scale(1,-1)">decoration must not restrict stretch.</ns0:text>
+			<ns0:text x="280" y="304" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,608) scale(1,-1)">Needle and looper threads are not</ns0:text>
+			<ns0:text x="280" y="289" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,578) scale(1,-1)">interchangeable without testing.</ns0:text>
+			<ns0:text x="528" y="475" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,950) scale(1,-1)">NEEDLE / FABRIC</ns0:text>
+			<ns0:text x="528" y="448" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,896) scale(1,-1)">Use the machine-specified needle system and a</ns0:text>
+			<ns0:text x="528" y="433" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,866) scale(1,-1)">knit-compatible point.</ns0:text>
+			<ns0:text x="528" y="400" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,800) scale(1,-1)">Domestic stretch needles are not a universal</ns0:text>
+			<ns0:text x="528" y="385" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,770) scale(1,-1)">serger substitute.</ns0:text>
+			<ns0:text x="528" y="352" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,704) scale(1,-1)">Keep stretch around the wearer; test doubled #3</ns0:text>
+			<ns0:text x="528" y="337" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,674) scale(1,-1)">separately.</ns0:text>
+			<ns0:text x="528" y="304" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,608) scale(1,-1)">Follow supplier care and heat limits; no branded</ns0:text>
+			<ns0:text x="528" y="289" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,578) scale(1,-1)">fabric performance assumed.</ns0:text>
+			<ns0:rect x="32" y="58" width="728" height="87" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;" />
+			<ns0:rect x="32" y="58" width="3" height="87" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="44" y="125" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,250) scale(1,-1)">COUPON FIRST</ns0:text>
+			<ns0:text x="44" y="107" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,214) scale(1,-1)">Record machine model, needle system/size, thread positions, stitch length/width, differential feed and foot pressure. Begin with manufacturer knit settings. Change one variable</ns0:text>
+			<ns0:text x="44" y="95" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,190) scale(1,-1)">at a time; retain an approved sample for each layer stack. Sources: AE, COATS, SCHMETZ.</ns0:text>
+		</ns0:g>
+	</ns0:g>
+<ns0:a href="02-cutting-and-allowances.svg"><ns0:text x="560" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Previous</ns0:text></ns0:a><ns0:a href="04-serger-threading.svg"><ns0:text x="665" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Next</ns0:text></ns0:a></ns0:svg>

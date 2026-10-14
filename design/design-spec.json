@@ -1,0 +1,235 @@
+{
+  "revision": "EFBD-2026-10-14-R2",
+  "units": "in",
+  "scale": 30,
+  "status": "documented",
+  "seam_allowance": 0.25,
+  "back_hem_allowance": 0.25,
+  "construction": "slip-on; open edge bands join full-height elastic back insert",
+  "materials": {
+    "compression": {
+      "name": "Moisture-wicking polyester-spandex compression knit",
+      "color": "black",
+      "stretch": "greatest usable stretch around circumference",
+      "status": "proposed"
+    },
+    "support": {
+      "name": "Soft polyester-spandex knit",
+      "color": "black",
+      "stretch": "circumferential; verify flange clearance",
+      "status": "proposed"
+    },
+    "band": {
+      "name": "Smooth matte polyester-spandex with firm recovery",
+      "color": "black",
+      "stretch": "circumferential; doubled layer must pass extension coupon",
+      "status": "proposed"
+    },
+    "elastic": {
+      "name": "Soft elastic knit; greater stretch than main body",
+      "color": "black",
+      "stretch": "across the narrow width; recovery to be tested",
+      "status": "proposed"
+    },
+    "thread": {
+      "name": "Black polyester needle thread; soft textured polyester looper thread",
+      "color": "black",
+      "stretch": "match machine and seam extension; lime decoration optional",
+      "status": "proposed"
+    }
+  },
+  "parts": {
+    "1": {
+      "name": "Main outer body",
+      "qty": 1,
+      "material": "compression",
+      "width": 34,
+      "base_height": 7,
+      "max_height": 10,
+      "zone_width": 12,
+      "geometry": "body",
+      "allowances": "quarter-inch outward offset on all joining edges",
+      "operations": [
+        "CUT",
+        "POCKET",
+        "JOIN",
+        "EASE"
+      ]
+    },
+    "2a": {
+      "name": "Lower interior support",
+      "qty": 1,
+      "material": "support",
+      "width": 10,
+      "height": 3,
+      "notch_center": 2,
+      "notch_width": 3,
+      "notch_depth": 1.5,
+      "geometry": "pocket",
+      "allowances": "quarter-inch on attached sides and outer perimeter; zero on free flange/insertion edge",
+      "operations": [
+        "CUT",
+        "EDGE",
+        "POCKET"
+      ]
+    },
+    "2b": {
+      "name": "Upper interior support",
+      "qty": 1,
+      "material": "support",
+      "mirror_of": "2a",
+      "geometry": "vertical-reflection",
+      "allowances": "same edge-specific allowances as lower support",
+      "operations": [
+        "CUT",
+        "EDGE",
+        "POCKET"
+      ]
+    },
+    "3": {
+      "name": "Identical top and bottom bands",
+      "qty": 2,
+      "material": "band",
+      "width_formula": "parts.1.width",
+      "height": 2,
+      "geometry": "folded-strip",
+      "allowances": "quarter-inch on both short ends and both raw attachment edges; no allowance at fold",
+      "operations": [
+        "CUT",
+        "FOLD",
+        "EASE",
+        "JOIN"
+      ]
+    },
+    "4": {
+      "name": "Full-height elastic back insert",
+      "qty": 1,
+      "material": "elastic",
+      "width": 2,
+      "height_formula": "parts.1.base_height + 2 * parts.3.height",
+      "geometry": "rectangle",
+      "allowances": "quarter-inch joining allowance on sides; quarter-inch single-turn hems on top and bottom",
+      "operations": [
+        "CUT",
+        "HEM",
+        "JOIN"
+      ]
+    },
+    "6": {
+      "name": "Sewing thread",
+      "qty": "as needed",
+      "material": "thread",
+      "geometry": "none",
+      "operations": [
+        "EDGE",
+        "POCKET",
+        "JOIN",
+        "HEM"
+      ]
+    }
+  },
+  "bag": {
+    "width": 10,
+    "height": 6,
+    "orientation": "horizontal",
+    "role": "sizing reference only; not part of product",
+    "flange": "illustrative; actual dimensions unverified"
+  },
+  "depth_target": 1.5,
+  "formulas": {
+    "extra_per_side": "(parts.1.max_height - parts.1.base_height) / 2",
+    "nominal_circumference": "parts.1.width + parts.4.width",
+    "band_cut_width": "parts.3.width + 2 * seam_allowance",
+    "band_cut_height": "2 * parts.3.height + 2 * seam_allowance"
+  },
+  "operations": {
+    "CUT": {
+      "name": "Cut, mark and orient",
+      "machine": "rotary cutter / shears",
+      "stitch": "none"
+    },
+    "EDGE": {
+      "name": "Finish free pocket edges",
+      "machine": "serger",
+      "stitch": "soft three-thread overedge; confirm formation"
+    },
+    "POCKET": {
+      "name": "Attach turned pocket perimeter",
+      "machine": "standard sewing machine",
+      "stitch": "stretch-capable zigzag; coupon-qualified"
+    },
+    "JOIN": {
+      "name": "Structural join",
+      "machine": "serger",
+      "stitch": "four-thread overlock; confirm formation"
+    },
+    "HEM": {
+      "name": "Finish insert ends / selected allowances",
+      "machine": "coverstitch",
+      "stitch": "two-needle coverseam; confirm formation"
+    },
+    "FOLD": {
+      "name": "Fold matching edge bands",
+      "machine": "clips / hand positioning",
+      "stitch": "none; removable holding basting only"
+    },
+    "EASE": {
+      "name": "Ease expansion into straight bands",
+      "machine": "hand basting then serger",
+      "stitch": "temporary basting then qualified JOIN"
+    }
+  },
+  "connections": [
+    {
+      "from": "1",
+      "to": "2a",
+      "type": "inside lower perimeter; free upper edge"
+    },
+    {
+      "from": "1",
+      "to": "2b",
+      "type": "inside upper perimeter; free lower edge"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "type": "top and bottom curved edges to open folded strips"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "type": "middle section of each full-height side seam"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "type": "top and bottom sections of each full-height side seam"
+    }
+  ],
+  "physical_checks": {
+    "seam_extension": {
+      "status": "requires retest",
+      "evidence": null
+    },
+    "pouch_depth": {
+      "status": "requires retest",
+      "evidence": null
+    },
+    "flange_access": {
+      "status": "requires retest",
+      "evidence": null
+    },
+    "slip_on_extension": {
+      "status": "requires retest",
+      "evidence": null
+    },
+    "laundering": {
+      "status": "requires retest",
+      "evidence": null
+    },
+    "retention": {
+      "status": "requires retest",
+      "evidence": null
+    }
+  }
+}

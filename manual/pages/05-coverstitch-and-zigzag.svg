@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="11in" height="8.5in" preserveAspectRatio="xMinYMin meet" viewBox="0 0 792 612" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+	<ns0:title>...</ns0:title>
+	<ns0:desc>...</ns0:desc>
+	<ns0:clipPath id="clip">
+		<ns0:rect x="0" y="0" width="792" height="612" />
+	</ns0:clipPath>
+	<ns0:g id="group" transform="scale(1,-1) translate(0,-612)" style="clip-path: url(#clip)">
+		<ns0:g transform="">
+			<ns0:rect x="0" y="0" width="792" height="612" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<ns0:rect x="0" y="605" width="792" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="32" y="580" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,1160) scale(1,-1)">REFERENCE / 05</ns0:text>
+			<ns0:text x="32" y="553" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,1106) scale(1,-1)">Coverstitch and pocket zigzag</ns0:text>
+			<ns0:text x="32" y="527" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,1054) scale(1,-1)">Role diagrams and seam choices. Thread according to the actual machine manual; retain settings with the sample.</ns0:text>
+			<ns0:path d="M 32,508 L 760,508 Z" style="stroke: rgb(78%,83%,85%); stroke-linecap: butt; stroke-width: 1;" />
+			<ns0:text x="32" y="22" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,44) scale(1,-1)">ELEVEN FORWARD  /  EFBD-2026-10-14-R2  /  PROTOTYPE - PHYSICAL FIT NOT VERIFIED</ns0:text>
+			<ns0:text x="749.992" y="22" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,44) scale(1,-1)">05</ns0:text>
+			<ns0:text x="32" y="477" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">COVERSTITCH / TWO NEEDLES + LOOPER</ns0:text>
+			<ns0:rect x="95" y="431" width="30" height="26" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:path d="M 110,431 L 110,377 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="110 377, 107.3902 382.4027, 112.6098 382.4027" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:rect x="160" y="431" width="30" height="26" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,41%,31%); fill-rule: evenodd;" />
+			<ns0:path d="M 175,431 L 175,377 Z" style="stroke: rgb(18%,41%,31%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="175 377, 172.3902 382.4027, 177.6098 382.4027" style="stroke: rgb(18%,41%,31%); stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,41%,31%); fill-rule: evenodd;" />
+			<ns0:rect x="55" y="355" width="290" height="12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:path d="M 110,375 L 110,337 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 2;" />
+			<ns0:path d="M 175,375 L 175,337 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 2;" />
+			<ns0:polyline points="60 342, 105 333, 175 342, 220 333, 275 342, 335 333" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;" />
+			<ns0:text x="32" y="302" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,604) scale(1,-1)">Needle threads form face rows; looper thread covers the underside.</ns0:text>
+			<ns0:text x="32" y="288" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,576) scale(1,-1)">Check tunneling and extension. Secure ends by the machine-approved</ns0:text>
+			<ns0:text x="32" y="274" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,548) scale(1,-1)">method; simply clipping tails may allow unraveling.</ns0:text>
+			<ns0:text x="420" y="477" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">STANDARD MACHINE / NEEDLE + BOBBIN</ns0:text>
+			<ns0:rect x="445" y="371" width="265" height="65" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,89%,90%); fill-rule: evenodd;" />
+			<ns0:rect x="445" y="371" width="265" height="34" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:polyline points="452 397, 462 385, 472 397, 482 385, 492 397, 502 385, 512 397, 522 385, 532 397, 542 385, 552 397, 562 385, 572 397, 582 385, 592 397, 602 385, 612 397, 622 385, 632 397, 642 385, 652 397, 662 385, 672 397, 682 385, 692 397, 702 385" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;" />
+			<ns0:text x="445" y="345" style="font-family: Helvetica; font-size: 9px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,690) scale(1,-1)">Turned pocket edge; zigzag stays in allowance</ns0:text>
+			<ns0:text x="420" y="302" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,604) scale(1,-1)">Use the qualified stretch zigzag along the turned attachment perimeter.</ns0:text>
+			<ns0:text x="420" y="288" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,576) scale(1,-1)">Free insertion edges remain open. Set width and length on coupons; do</ns0:text>
+			<ns0:text x="420" y="274" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,548) scale(1,-1)">not substitute a rigid straight stitch.</ns0:text>
+			<ns0:rect x="32" y="60" width="728" height="122" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;" />
+			<ns0:rect x="32" y="60" width="3" height="122" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="44" y="162" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,324) scale(1,-1)">COMMON ERRORS</ns0:text>
+			<ns0:text x="44" y="144" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,288) scale(1,-1)">Tunneling: review thread tension, needle spacing and fabric support. Skipped stitches: confirm needle system, point, condition and threading. Cracking under stretch: review</ns0:text>
+			<ns0:text x="44" y="132" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,264) scale(1,-1)">seam formation and thread consumption. Do not assume a domestic serger flatlock is an industrial flatseam. Sources: COATS, SCHMETZ, PEGASUS.</ns0:text>
+		</ns0:g>
+	</ns0:g>
+<ns0:a href="04-serger-threading.svg"><ns0:text x="560" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Previous</ns0:text></ns0:a><ns0:a href="06-operation-chart.svg"><ns0:text x="665" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Next</ns0:text></ns0:a></ns0:svg>

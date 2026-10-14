@@ -1,0 +1,161 @@
+{
+  "revision": "EFBD-2026-10-14-R2",
+  "source_hash": "4f66e60b73dc12d4997f65a6a798b62ab12e281ed9d6bfcfa64e38d8e6426bb6",
+  "pages": [
+    {
+      "number": 1,
+      "title": "Parts catalog",
+      "file": "pages/01-parts-catalog.svg"
+    },
+    {
+      "number": 2,
+      "title": "Cutting and allowances",
+      "file": "pages/02-cutting-and-allowances.svg"
+    },
+    {
+      "number": 3,
+      "title": "Equipment and threads",
+      "file": "pages/03-equipment-and-threads.svg"
+    },
+    {
+      "number": 4,
+      "title": "Serger threading",
+      "file": "pages/04-serger-threading.svg"
+    },
+    {
+      "number": 5,
+      "title": "Coverstitch and zigzag",
+      "file": "pages/05-coverstitch-and-zigzag.svg"
+    },
+    {
+      "number": 6,
+      "title": "Operation chart",
+      "file": "pages/06-operation-chart.svg"
+    },
+    {
+      "number": 7,
+      "title": "Pouch expansion",
+      "file": "pages/07-pouch-expansion.svg"
+    },
+    {
+      "number": 8,
+      "title": "Step 01 - Prepare the fabrics",
+      "file": "pages/08-step-01---prepare-the-fabrics.svg"
+    },
+    {
+      "number": 9,
+      "title": "Step 02 - Qualify each seam on coupons",
+      "file": "pages/09-step-02---qualify-each-seam-on-coupons.svg"
+    },
+    {
+      "number": 10,
+      "title": "Step 03 - Cut and mark six textile pieces",
+      "file": "pages/10-step-03---cut-and-mark-six-textile-pieces.svg"
+    },
+    {
+      "number": 11,
+      "title": "Step 04 - Finish the lower free edge",
+      "file": "pages/11-step-04---finish-the-lower-free-edge.svg"
+    },
+    {
+      "number": 12,
+      "title": "Step 05 - Finish the upper free edge",
+      "file": "pages/12-step-05---finish-the-upper-free-edge.svg"
+    },
+    {
+      "number": 13,
+      "title": "Step 06 - Position the interior supports",
+      "file": "pages/13-step-06---position-the-interior-supports.svg"
+    },
+    {
+      "number": 14,
+      "title": "Step 07 - Baste and check support access",
+      "file": "pages/14-step-07---baste-and-check-support-access.svg"
+    },
+    {
+      "number": 15,
+      "title": "Step 08 - Attach the lower support",
+      "file": "pages/15-step-08---attach-the-lower-support.svg"
+    },
+    {
+      "number": 16,
+      "title": "Step 09 - Attach the upper support",
+      "file": "pages/16-step-09---attach-the-upper-support.svg"
+    },
+    {
+      "number": 17,
+      "title": "Step 10 - Hem and mark the back insert",
+      "file": "pages/17-step-10---hem-and-mark-the-back-insert.svg"
+    },
+    {
+      "number": 18,
+      "title": "Step 11 - Fold the two open edge bands",
+      "file": "pages/18-step-11---fold-the-two-open-edge-bands.svg"
+    },
+    {
+      "number": 19,
+      "title": "Step 12 - Baste the top band flat",
+      "file": "pages/19-step-12---baste-the-top-band-flat.svg"
+    },
+    {
+      "number": 20,
+      "title": "Step 13 - Sew the top attachment",
+      "file": "pages/20-step-13---sew-the-top-attachment.svg"
+    },
+    {
+      "number": 21,
+      "title": "Step 14 - Baste the bottom and check depth",
+      "file": "pages/21-step-14---baste-the-bottom-and-check-depth.svg"
+    },
+    {
+      "number": 22,
+      "title": "Step 15 - Sew the bottom attachment",
+      "file": "pages/22-step-15---sew-the-bottom-attachment.svg"
+    },
+    {
+      "number": 23,
+      "title": "Step 16 - Join the first full-height back seam",
+      "file": "pages/23-step-16---join-the-first-full-height-back-seam.svg"
+    },
+    {
+      "number": 24,
+      "title": "Step 17 - Close the second back seam",
+      "file": "pages/24-step-17---close-the-second-back-seam.svg"
+    },
+    {
+      "number": 25,
+      "title": "Step 18 - Secure and finish the seams",
+      "file": "pages/25-step-18---secure-and-finish-the-seams.svg"
+    },
+    {
+      "number": 26,
+      "title": "Step 19 - Inspect access and expansion",
+      "file": "pages/26-step-19---inspect-access-and-expansion.svg"
+    },
+    {
+      "number": 27,
+      "title": "Step 20 - Record the prototype results",
+      "file": "pages/27-step-20---record-the-prototype-results.svg"
+    },
+    {
+      "number": 28,
+      "title": "Research - manufacturers",
+      "file": "pages/28-research---manufacturers.svg"
+    },
+    {
+      "number": 29,
+      "title": "Research - standards",
+      "file": "pages/29-research---standards.svg"
+    },
+    {
+      "number": 30,
+      "title": "Worksheet - setup",
+      "file": "pages/30-worksheet---setup.svg"
+    },
+    {
+      "number": 31,
+      "title": "Worksheet - fit and change",
+      "file": "pages/31-worksheet---fit-and-change.svg"
+    }
+  ]
+}

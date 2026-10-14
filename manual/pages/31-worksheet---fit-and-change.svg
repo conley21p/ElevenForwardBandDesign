@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="11in" height="8.5in" preserveAspectRatio="xMinYMin meet" viewBox="0 0 792 612" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+	<ns0:title>...</ns0:title>
+	<ns0:desc>...</ns0:desc>
+	<ns0:clipPath id="clip">
+		<ns0:rect x="0" y="0" width="792" height="612" />
+	</ns0:clipPath>
+	<ns0:g id="group" transform="scale(1,-1) translate(0,-612)" style="clip-path: url(#clip)">
+		<ns0:g transform="">
+			<ns0:rect x="0" y="0" width="792" height="612" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<ns0:rect x="0" y="605" width="792" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="32" y="580" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,1160) scale(1,-1)">PROTOTYPE WORKSHEET</ns0:text>
+			<ns0:text x="32" y="553" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,1106) scale(1,-1)">Fit, Expansion And Change Record</ns0:text>
+			<ns0:text x="32" y="527" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,1054) scale(1,-1)">Complete by hand or in the source-controlled physical test record. Blank fields are not passed tests.</ns0:text>
+			<ns0:path d="M 32,508 L 760,508 Z" style="stroke: rgb(78%,83%,85%); stroke-linecap: butt; stroke-width: 1;" />
+			<ns0:text x="32" y="22" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,44) scale(1,-1)">ELEVEN FORWARD  /  EFBD-2026-10-14-R2  /  PROTOTYPE - PHYSICAL FIT NOT VERIFIED</ns0:text>
+			<ns0:text x="749.992" y="22" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,44) scale(1,-1)">31</ns0:text>
+			<ns0:text x="32" y="477" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,954) scale(1,-1)">Fixture and bag/mock-up description; flange and outlet dimensions</ns0:text>
+			<ns0:path d="M 32,453 L 760,453 Z" style="stroke: rgb(67%,74%,77%); stroke-linecap: butt; stroke-width: 0.7;" />
+			<ns0:text x="32" y="426" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,852) scale(1,-1)">Depth measured from local body plane; intermediate / target result</ns0:text>
+			<ns0:path d="M 32,402 L 760,402 Z" style="stroke: rgb(67%,74%,77%); stroke-linecap: butt; stroke-width: 0.7;" />
+			<ns0:text x="32" y="375" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,750) scale(1,-1)">Insertion / removal / flange and outlet clearance</ns0:text>
+			<ns0:path d="M 32,351 L 760,351 Z" style="stroke: rgb(67%,74%,77%); stroke-linecap: butt; stroke-width: 0.7;" />
+			<ns0:text x="32" y="324" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,648) scale(1,-1)">Retention / band flatness / recovery / seam defects</ns0:text>
+			<ns0:path d="M 32,300 L 760,300 Z" style="stroke: rgb(67%,74%,77%); stroke-linecap: butt; stroke-width: 0.7;" />
+			<ns0:text x="32" y="273" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,546) scale(1,-1)">Slip-on extension tested and limiting seam or material</ns0:text>
+			<ns0:path d="M 32,249 L 760,249 Z" style="stroke: rgb(67%,74%,77%); stroke-linecap: butt; stroke-width: 0.7;" />
+			<ns0:text x="32" y="222" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,444) scale(1,-1)">Photograph / measurement record locations</ns0:text>
+			<ns0:path d="M 32,198 L 760,198 Z" style="stroke: rgb(67%,74%,77%); stroke-linecap: butt; stroke-width: 0.7;" />
+			<ns0:text x="32" y="171" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,342) scale(1,-1)">Change requested; other affected parts and operations</ns0:text>
+			<ns0:path d="M 32,147 L 760,147 Z" style="stroke: rgb(67%,74%,77%); stroke-linecap: butt; stroke-width: 0.7;" />
+			<ns0:text x="32" y="120" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,240) scale(1,-1)">Pass / fail / not evaluated; next revision / retest required</ns0:text>
+			<ns0:path d="M 32,96 L 760,96 Z" style="stroke: rgb(67%,74%,77%); stroke-linecap: butt; stroke-width: 0.7;" />
+		</ns0:g>
+	</ns0:g>
+<ns0:a href="30-worksheet---setup.svg"><ns0:text x="560" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Previous</ns0:text></ns0:a></ns0:svg>

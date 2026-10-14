@@ -1,0 +1,66 @@
+[
+  {
+    "id": "AE",
+    "title": "American & Efird - Sewing Stretch Knit Fabrics",
+    "url": "https://www.amefird.com/wp-content/uploads/2010/01/Sewing-Stretch-Kni-tFabrics-2-6-10.pdf",
+    "use": "Operator feeding, stretch seams and sample troubleshooting.",
+    "type": "manufacturer guidance",
+    "accessed": "2026-10-14"
+  },
+  {
+    "id": "COATS",
+    "title": "Coats - Soft and Secure Seams",
+    "url": "https://www.coats.com/pl/info-hub/about-soft-and-secure-seams-for-activewear-and-intimates/",
+    "use": "Needle / looper thread roles, skin-side softness and extension.",
+    "type": "manufacturer guidance",
+    "accessed": "2026-10-14"
+  },
+  {
+    "id": "SCHMETZ",
+    "title": "SCHMETZ - Stretch Needles",
+    "url": "https://www.schmetzneedles.com/products/stretch-sewing-machine-needles",
+    "use": "Domestic stretch needle characteristics; use the actual machine needle system.",
+    "type": "manufacturer guidance",
+    "accessed": "2026-10-14"
+  },
+  {
+    "id": "PEGASUS",
+    "title": "Pegasus - Stitch Library",
+    "url": "https://www.pegasus.co.jp/stitch/index.php?lang=en",
+    "use": "Stitch formation examples; confirm actual machine formation before assigning codes.",
+    "type": "manufacturer guidance",
+    "accessed": "2026-10-14"
+  },
+  {
+    "id": "ISO4915",
+    "title": "ISO 4915:1991 - Stitch classification",
+    "url": "https://www.iso.org/standard/10932.html",
+    "use": "Terminology reference, not a garment performance certification.",
+    "type": "standard catalog",
+    "accessed": "2026-10-14"
+  },
+  {
+    "id": "ISO4916",
+    "title": "ISO 4916:1991 - Seam classification",
+    "url": "https://www.iso.org/standard/10934.html",
+    "use": "Seam terminology reference, not a compliance claim.",
+    "type": "standard catalog",
+    "accessed": "2026-10-14"
+  },
+  {
+    "id": "ISO20932",
+    "title": "ISO 20932-1:2018 - Fabric elasticity",
+    "url": "https://www.iso.org/standard/69489.html",
+    "use": "Laboratory method reference; informal coupon checks here are not ISO tests.",
+    "type": "standard catalog",
+    "accessed": "2026-10-14"
+  },
+  {
+    "id": "ISO6330",
+    "title": "ISO 6330:2021 - Washing and drying",
+    "url": "https://www.iso.org/standard/75934.html",
+    "use": "Controlled laundering reference; record the actual prototype care process.",
+    "type": "standard catalog",
+    "accessed": "2026-10-14"
+  }
+]

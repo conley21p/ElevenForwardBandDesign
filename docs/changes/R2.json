@@ -1,0 +1,51 @@
+{
+  "revision": "EFBD-2026-10-14-R2",
+  "request": "Implement synchronized prototype manual; raise body max to 10 inches; shorten both edge bands to 34 inches and join them to a full-height back insert.",
+  "question": "Does this change affect another part, material, dimension, seam, assembly step, instruction, or inspection requirement-and what else must be updated?",
+  "answer": "Yes. Taller expansion changes easing and depth tests. Open bands require a full-height back insert and body/band assembly before the back seams. All cutting outlines, catalogs, threading guidance, assembly pages and inspection records must agree.",
+  "direct_parts": [
+    "1",
+    "3"
+  ],
+  "dependent_parts": [
+    "2a",
+    "2b",
+    "4",
+    "6"
+  ],
+  "operations": [
+    "CUT",
+    "EDGE",
+    "POCKET",
+    "JOIN",
+    "HEM",
+    "FOLD",
+    "EASE"
+  ],
+  "outputs": [
+    "layout",
+    "catalog",
+    "manual pages",
+    "PDF",
+    "specification",
+    "context",
+    "worksheets"
+  ],
+  "invalidated_checks": [
+    "seam_extension",
+    "pouch_depth",
+    "flange_access",
+    "slip_on_extension",
+    "laundering",
+    "retention"
+  ],
+  "decisions": [
+    "User accepted recommended full-height 2 x 11 inch back insert by asking to continue.",
+    "No hook-and-eye; no separate binding; open bands do not close into loops.",
+    "Finished dimensions; quarter-inch prototype allowances; folded double-layer bands."
+  ],
+  "unresolved_updates": [],
+  "status": "complete",
+  "verification": "Digital regeneration, SVG/PDF checks and eleven regression tests passed; all 31 pages and the master layout visually reviewed. Physical checks remain requires retest.",
+  "reviewed_source_hash": "4f66e60b73dc12d4997f65a6a798b62ab12e281ed9d6bfcfa64e38d8e6426bb6"
+}

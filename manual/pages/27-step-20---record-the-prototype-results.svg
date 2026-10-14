@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="11in" height="8.5in" preserveAspectRatio="xMinYMin meet" viewBox="0 0 792 612" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+	<ns0:title>...</ns0:title>
+	<ns0:desc>...</ns0:desc>
+	<ns0:clipPath id="clip">
+		<ns0:rect x="0" y="0" width="792" height="612" />
+	</ns0:clipPath>
+	<ns0:g id="group" transform="scale(1,-1) translate(0,-612)" style="clip-path: url(#clip)">
+		<ns0:g transform="">
+			<ns0:rect x="0" y="0" width="792" height="612" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<ns0:rect x="0" y="605" width="792" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="32" y="580" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,1160) scale(1,-1)">ASSEMBLY / STEP 20</ns0:text>
+			<ns0:text x="32" y="553" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,1106) scale(1,-1)">Record the prototype results</ns0:text>
+			<ns0:text x="32" y="527" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,1054) scale(1,-1)">Parts #1, #2a, #2b, #3, #4, #6 | HEM: coverstitch</ns0:text>
+			<ns0:path d="M 32,508 L 760,508 Z" style="stroke: rgb(78%,83%,85%); stroke-linecap: butt; stroke-width: 1;" />
+			<ns0:text x="32" y="22" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,44) scale(1,-1)">ELEVEN FORWARD  /  EFBD-2026-10-14-R2  /  PROTOTYPE - PHYSICAL FIT NOT VERIFIED</ns0:text>
+			<ns0:text x="749.992" y="22" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,44) scale(1,-1)">27</ns0:text>
+			<ns0:rect x="32" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="40" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">BEFORE</ns0:text>
+			<ns0:rect x="47" y="435" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 67,437 L 157,437 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="47" y="413" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 67,415 L 157,415 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="47" y="391" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 67,393 L 157,393 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="47" y="369" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 67,371 L 157,371 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="47" y="347" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 67,349 L 157,349 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:text x="47" y="314" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,628) scale(1,-1)">Measure</ns0:text>
+			<ns0:rect x="180" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="188" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">ACTION</ns0:text>
+			<ns0:rect x="195" y="435" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 215,437 L 305,437 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="195" y="413" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 215,415 L 305,415 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="195" y="391" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 215,393 L 305,393 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="195" y="369" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 215,371 L 305,371 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="195" y="347" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 215,349 L 305,349 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:text x="195" y="314" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,628) scale(1,-1)">Document</ns0:text>
+			<ns0:rect x="328" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="336" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">CHECKED RESULT</ns0:text>
+			<ns0:rect x="343" y="435" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 363,437 L 453,437 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="343" y="413" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 363,415 L 453,415 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="343" y="391" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 363,393 L 453,393 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="343" y="369" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 363,371 L 453,371 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:rect x="343" y="347" width="8" height="8" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;" />
+			<ns0:path d="M 363,349 L 453,349 Z" style="stroke: rgb(60%,67%,70%); stroke-linecap: butt; stroke-width: 0.6;" />
+			<ns0:text x="343" y="314" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,628) scale(1,-1)">Review / retest</ns0:text>
+			<ns0:text x="32" y="279" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,558) scale(1,-1)">WHAT TO DO</ns0:text>
+			<ns0:text x="32" y="259" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,518) scale(1,-1)">1.</ns0:text>
+			<ns0:text x="49" y="259" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,518) scale(1,-1)">Record fabric lots, machine settings, dimensions, tested extension and all depth-check</ns0:text>
+			<ns0:text x="49" y="246" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,492) scale(1,-1)">observations.</ns0:text>
+			<ns0:text x="32" y="226" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,452) scale(1,-1)">2.</ns0:text>
+			<ns0:text x="49" y="226" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,452) scale(1,-1)">Launder only by the selected materials care instructions; record actual cycle and drying</ns0:text>
+			<ns0:text x="49" y="213" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,426) scale(1,-1)">method.</ns0:text>
+			<ns0:text x="32" y="193" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,386) scale(1,-1)">3.</ns0:text>
+			<ns0:text x="49" y="193" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,386) scale(1,-1)">Remeasure after relaxation and repeat access, seam and recovery checks.</ns0:text>
+			<ns0:text x="32" y="173" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,346) scale(1,-1)">4.</ns0:text>
+			<ns0:text x="49" y="173" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,346) scale(1,-1)">Attach dated results and photos to the revision. Leave unperformed checks as requires retest.</ns0:text>
+			<ns0:text x="500" y="479" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,958) scale(1,-1)">SEWING OPERATION</ns0:text>
+			<ns0:text x="500" y="458" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,916) scale(1,-1)">Finish insert ends / selected allowances - two-needle</ns0:text>
+			<ns0:text x="500" y="444" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,888) scale(1,-1)">coverseam; confirm formation</ns0:text>
+			<ns0:text x="500" y="422" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,844) scale(1,-1)">Joining allowance: 0.25 in where specified. Use the approved</ns0:text>
+			<ns0:text x="500" y="409" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,818) scale(1,-1)">coupon settings.</ns0:text>
+			<ns0:text x="500" y="381" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(18%,41%,31%); stroke:none;" transform="translate(0,762) scale(1,-1)">CHECK BEFORE CONTINUING</ns0:text>
+			<ns0:text x="500" y="362" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,724) scale(1,-1)">- Every claimed pass has a dated record and tested</ns0:text>
+			<ns0:text x="500" y="348" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,696) scale(1,-1)">configuration.</ns0:text>
+			<ns0:text x="500" y="325" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,650) scale(1,-1)">- Material or geometry changes invalidate the affected</ns0:text>
+			<ns0:text x="500" y="311" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,622) scale(1,-1)">result.</ns0:text>
+			<ns0:text x="500" y="283" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(67%,22%,22%); stroke:none;" transform="translate(0,566) scale(1,-1)">AVOID THIS</ns0:text>
+			<ns0:text x="500" y="264" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,528) scale(1,-1)">Do not label an informal wash or stretch check as</ns0:text>
+			<ns0:text x="500" y="250" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,500) scale(1,-1)">ISO-compliant testing.</ns0:text>
+			<ns0:text x="500" y="221" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,442) scale(1,-1)">RECORD</ns0:text>
+			<ns0:text x="500" y="203" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,406) scale(1,-1)">Operator / date / coupon ID / pass or issue. Stop and review</ns0:text>
+			<ns0:text x="500" y="190" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,380) scale(1,-1)">dependent parts if the check fails.</ns0:text>
+			<ns0:rect x="500" y="144" width="100" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:rect x="500" y="136" width="100" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,62%,65%); fill-rule: evenodd;" />
+			<ns0:path d="M 505,125 L 595,125 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 2;" />
+			<ns0:text x="610" y="140" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,280) scale(1,-1)">Layer schematic</ns0:text>
+		</ns0:g>
+	</ns0:g>
+<ns0:a href="26-step-19---inspect-access-and-expansion.svg"><ns0:text x="560" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Previous</ns0:text></ns0:a><ns0:a href="28-research---manufacturers.svg"><ns0:text x="665" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Next</ns0:text></ns0:a></ns0:svg>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="11in" height="8.5in" preserveAspectRatio="xMinYMin meet" viewBox="0 0 792 612" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+	<ns0:title>...</ns0:title>
+	<ns0:desc>...</ns0:desc>
+	<ns0:clipPath id="clip">
+		<ns0:rect x="0" y="0" width="792" height="612" />
+	</ns0:clipPath>
+	<ns0:g id="group" transform="scale(1,-1) translate(0,-612)" style="clip-path: url(#clip)">
+		<ns0:g transform="">
+			<ns0:rect x="0" y="0" width="792" height="612" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<ns0:rect x="0" y="605" width="792" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="32" y="580" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,1160) scale(1,-1)">ASSEMBLY / STEP 02</ns0:text>
+			<ns0:text x="32" y="553" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,1106) scale(1,-1)">Qualify each seam on coupons</ns0:text>
+			<ns0:text x="32" y="527" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,1054) scale(1,-1)">Parts #1, #2a, #2b, #3, #4, #6 | JOIN: serger</ns0:text>
+			<ns0:path d="M 32,508 L 760,508 Z" style="stroke: rgb(78%,83%,85%); stroke-linecap: butt; stroke-width: 1;" />
+			<ns0:text x="32" y="22" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,44) scale(1,-1)">ELEVEN FORWARD  /  EFBD-2026-10-14-R2  /  PROTOTYPE - PHYSICAL FIT NOT VERIFIED</ns0:text>
+			<ns0:text x="749.992" y="22" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,44) scale(1,-1)">09</ns0:text>
+			<ns0:rect x="32" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="40" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">BEFORE</ns0:text>
+			<ns0:rect x="46" y="394" width="110" height="35" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:rect x="46" y="359" width="110" height="35" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(46%,54%,58%); fill-rule: evenodd;" />
+			<ns0:path d="M 46,394 L 156,394 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 2; stroke-dasharray: 3, 2;" />
+			<ns0:text x="42" y="328" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,656) scale(1,-1)">Match layers</ns0:text>
+			<ns0:rect x="180" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="188" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">ACTION</ns0:text>
+			<ns0:rect x="194" y="394" width="110" height="35" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:rect x="194" y="359" width="110" height="35" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(46%,54%,58%); fill-rule: evenodd;" />
+			<ns0:path d="M 194,394 L 304,394 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 2; stroke-dasharray: 3, 2;" />
+			<ns0:path d="M 235,394 L 200,394 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="200 394, 205.4027 396.6098, 205.4027 391.3902" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1; fill: rgb(64%,32%,7%); fill-rule: evenodd;" />
+			<ns0:path d="M 260,394 L 298,394 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="298 394, 292.5973 391.3902, 292.5973 396.6098" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1; fill: rgb(64%,32%,7%); fill-rule: evenodd;" />
+			<ns0:text x="190" y="328" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,656) scale(1,-1)">Extend / release</ns0:text>
+			<ns0:rect x="328" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="336" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">CHECKED RESULT</ns0:text>
+			<ns0:rect x="342" y="394" width="110" height="35" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:rect x="342" y="359" width="110" height="35" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(46%,54%,58%); fill-rule: evenodd;" />
+			<ns0:path d="M 342,394 L 452,394 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 2; stroke-dasharray: 3, 2;" />
+			<ns0:path d="M 383,394 L 348,394 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="348 394, 353.4027 396.6098, 353.4027 391.3902" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1; fill: rgb(64%,32%,7%); fill-rule: evenodd;" />
+			<ns0:path d="M 408,394 L 446,394 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="446 394, 440.5973 391.3902, 440.5973 396.6098" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1; fill: rgb(64%,32%,7%); fill-rule: evenodd;" />
+			<ns0:text x="338" y="328" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,656) scale(1,-1)">Inspect and record</ns0:text>
+			<ns0:text x="32" y="279" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,558) scale(1,-1)">WHAT TO DO</ns0:text>
+			<ns0:text x="32" y="259" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,518) scale(1,-1)">1.</ns0:text>
+			<ns0:text x="49" y="259" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,518) scale(1,-1)">Thread using the machine manual; record needle system, size and thread in each position.</ns0:text>
+			<ns0:text x="32" y="239" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,478) scale(1,-1)">2.</ns0:text>
+			<ns0:text x="49" y="239" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,478) scale(1,-1)">Sew body-plus-insert, folded-band-plus-body and pocket-on-body coupons using the same</ns0:text>
+			<ns0:text x="49" y="226" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,452) scale(1,-1)">layers as the garment.</ns0:text>
+			<ns0:text x="32" y="206" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,412) scale(1,-1)">3.</ns0:text>
+			<ns0:text x="49" y="206" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,412) scale(1,-1)">Start with the manufacturer knit setting. Change only one setting at a time until feeding is flat.</ns0:text>
+			<ns0:text x="32" y="186" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,372) scale(1,-1)">4.</ns0:text>
+			<ns0:text x="49" y="186" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,372) scale(1,-1)">Extend through the intended assembly use, release, and inspect. Keep the approved coupon</ns0:text>
+			<ns0:text x="49" y="173" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,346) scale(1,-1)">and settings record.</ns0:text>
+			<ns0:text x="500" y="479" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,958) scale(1,-1)">SEWING OPERATION</ns0:text>
+			<ns0:text x="500" y="458" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,916) scale(1,-1)">Structural join - four-thread overlock; confirm formation</ns0:text>
+			<ns0:text x="500" y="436" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,872) scale(1,-1)">Joining allowance: 0.25 in where specified. Use the approved</ns0:text>
+			<ns0:text x="500" y="423" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,846) scale(1,-1)">coupon settings.</ns0:text>
+			<ns0:text x="500" y="395" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(18%,41%,31%); stroke:none;" transform="translate(0,790) scale(1,-1)">CHECK BEFORE CONTINUING</ns0:text>
+			<ns0:text x="500" y="376" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,752) scale(1,-1)">- No thread cracking, skipped stitches, needle cuts or</ns0:text>
+			<ns0:text x="500" y="362" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,724) scale(1,-1)">persistent waves.</ns0:text>
+			<ns0:text x="500" y="339" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,678) scale(1,-1)">- Retest after thread, needle, material or layer changes.</ns0:text>
+			<ns0:text x="500" y="311" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(67%,22%,22%); stroke:none;" transform="translate(0,622) scale(1,-1)">AVOID THIS</ns0:text>
+			<ns0:text x="500" y="292" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,584) scale(1,-1)">No universal tension number or stitch length can</ns0:text>
+			<ns0:text x="500" y="278" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,556) scale(1,-1)">substitute for these coupons.</ns0:text>
+			<ns0:text x="500" y="249" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,498) scale(1,-1)">RECORD</ns0:text>
+			<ns0:text x="500" y="231" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,462) scale(1,-1)">Operator / date / coupon ID / pass or issue. Stop and review</ns0:text>
+			<ns0:text x="500" y="218" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,436) scale(1,-1)">dependent parts if the check fails.</ns0:text>
+			<ns0:rect x="500" y="172" width="100" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:rect x="500" y="164" width="100" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,62%,65%); fill-rule: evenodd;" />
+			<ns0:path d="M 505,153 L 595,153 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 2;" />
+			<ns0:text x="610" y="168" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,336) scale(1,-1)">Layer schematic</ns0:text>
+		</ns0:g>
+	</ns0:g>
+<ns0:a href="08-step-01---prepare-the-fabrics.svg"><ns0:text x="560" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Previous</ns0:text></ns0:a><ns0:a href="10-step-03---cut-and-mark-six-textile-pieces.svg"><ns0:text x="665" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Next</ns0:text></ns0:a></ns0:svg>

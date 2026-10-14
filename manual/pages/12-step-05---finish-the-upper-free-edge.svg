@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="11in" height="8.5in" preserveAspectRatio="xMinYMin meet" viewBox="0 0 792 612" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+	<ns0:title>...</ns0:title>
+	<ns0:desc>...</ns0:desc>
+	<ns0:clipPath id="clip">
+		<ns0:rect x="0" y="0" width="792" height="612" />
+	</ns0:clipPath>
+	<ns0:g id="group" transform="scale(1,-1) translate(0,-612)" style="clip-path: url(#clip)">
+		<ns0:g transform="">
+			<ns0:rect x="0" y="0" width="792" height="612" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<ns0:rect x="0" y="605" width="792" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="32" y="580" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,1160) scale(1,-1)">ASSEMBLY / STEP 05</ns0:text>
+			<ns0:text x="32" y="553" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,1106) scale(1,-1)">Finish the upper free edge</ns0:text>
+			<ns0:text x="32" y="527" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,1054) scale(1,-1)">Parts #2b, #6 | EDGE: serger</ns0:text>
+			<ns0:path d="M 32,508 L 760,508 Z" style="stroke: rgb(78%,83%,85%); stroke-linecap: butt; stroke-width: 1;" />
+			<ns0:text x="32" y="22" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,44) scale(1,-1)">ELEVEN FORWARD  /  EFBD-2026-10-14-R2  /  PROTOTYPE - PHYSICAL FIT NOT VERIFIED</ns0:text>
+			<ns0:text x="749.992" y="22" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,44) scale(1,-1)">12</ns0:text>
+			<ns0:rect x="32" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="40" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">BEFORE</ns0:text>
+			<ns0:polygon points="50 411, 50.0185 411.4708, 50.07387 411.9386, 50.16578 412.4007, 50.29366 412.8541, 50.45672 413.2961, 50.65396 413.7239, 50.88416 414.135, 51.1459 414.5267, 51.43756 414.8967, 51.75736 415.2426, 52.10331 415.5624, 52.47329 415.8541, 52.86501 416.1158, 53.27606 416.346, 53.7039 416.5433, 54.1459 416.7063, 54.59933 416.8342, 55.06139 416.9261, 55.52925 416.9815, 56 417, 144 417, 144.4708 416.9815, 144.9386 416.9261, 145.4007 416.8342, 145.8541 416.7063, 146.2961 416.5433, 146.7239 416.346, 147.135 416.1158, 147.5267 415.8541, 147.8967 415.5624, 148.2426 415.2426, 148.5624 414.8967, 148.8541 414.5267, 149.1158 414.135, 149.346 413.7239, 149.5433 413.2961, 149.7063 412.8541, 149.8342 412.4007, 149.9261 411.9386, 149.9815 411.4708, 150 411, 150 387, 85 387, 84.625 387.5889, 84.25 388.1769, 83.875 388.7631, 83.5 389.3465, 83.125 389.9264, 82.75 390.5017, 82.375 391.0716, 82 391.6353, 81.625 392.1918, 81.25 392.7403, 80.875 393.2799, 80.5 393.8099, 80.125 394.3293, 79.75 394.8375, 79.375 395.3336, 79 395.8168, 78.625 396.2864, 78.25 396.7417, 77.875 397.182, 77.5 397.6066, 77.125 398.0148, 76.75 398.4061, 76.375 398.7798, 76 399.1353, 75.625 399.472, 75.25 399.7896, 74.875 400.0874, 74.5 400.3651, 74.125 400.6221, 73.75 400.8582, 73.375 401.0729, 73 401.2658, 72.625 401.4368, 72.25 401.5855, 71.875 401.7118, 71.5 401.8153, 71.125 401.896, 70.75 401.9538, 70.375 401.9884, 70 402, 69.625 401.9884, 69.25 401.9538, 68.875 401.896, 68.5 401.8153, 68.125 401.7118, 67.75 401.5855, 67.375 401.4368, 67 401.2658, 66.625 401.0729, 66.25 400.8582, 65.875 400.6221, 65.5 400.3651, 65.125 400.0874, 64.75 399.7896, 64.375 399.472, 64 399.1353, 63.625 398.7798, 63.25 398.4061, 62.875 398.0148, 62.5 397.6066, 62.125 397.182, 61.75 396.7417, 61.375 396.2864, 61 395.8168, 60.625 395.3336, 60.25 394.8375, 59.875 394.3293, 59.5 393.8099, 59.125 393.2799, 58.75 392.7403, 58.375 392.1918, 58 391.6353, 57.625 391.0716, 57.25 390.5017, 56.875 389.9264, 56.5 389.3465, 56.125 388.7631, 55.75 388.1769, 55.375 387.5889, 55 387, 50 387" style="stroke: rgb(12%,20%,23%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:text x="42" y="335" style="font-family: Helvetica; font-size: 7px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,670) scale(1,-1)">Finish only free edge</ns0:text>
+			<ns0:rect x="180" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="188" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">ACTION</ns0:text>
+			<ns0:polygon points="198 411, 198.0185 411.4708, 198.0739 411.9386, 198.1658 412.4007, 198.2937 412.8541, 198.4567 413.2961, 198.654 413.7239, 198.8842 414.135, 199.1459 414.5267, 199.4376 414.8967, 199.7574 415.2426, 200.1033 415.5624, 200.4733 415.8541, 200.865 416.1158, 201.2761 416.346, 201.7039 416.5433, 202.1459 416.7063, 202.5993 416.8342, 203.0614 416.9261, 203.5292 416.9815, 204 417, 292 417, 292.4708 416.9815, 292.9386 416.9261, 293.4007 416.8342, 293.8541 416.7063, 294.2961 416.5433, 294.7239 416.346, 295.135 416.1158, 295.5267 415.8541, 295.8967 415.5624, 296.2426 415.2426, 296.5624 414.8967, 296.8541 414.5267, 297.1158 414.135, 297.346 413.7239, 297.5433 413.2961, 297.7063 412.8541, 297.8342 412.4007, 297.9261 411.9386, 297.9815 411.4708, 298 411, 298 387, 233 387, 232.625 387.5889, 232.25 388.1769, 231.875 388.7631, 231.5 389.3465, 231.125 389.9264, 230.75 390.5017, 230.375 391.0716, 230 391.6353, 229.625 392.1918, 229.25 392.7403, 228.875 393.2799, 228.5 393.8099, 228.125 394.3293, 227.75 394.8375, 227.375 395.3336, 227 395.8168, 226.625 396.2864, 226.25 396.7417, 225.875 397.182, 225.5 397.6066, 225.125 398.0148, 224.75 398.4061, 224.375 398.7798, 224 399.1353, 223.625 399.472, 223.25 399.7896, 222.875 400.0874, 222.5 400.3651, 222.125 400.6221, 221.75 400.8582, 221.375 401.0729, 221 401.2658, 220.625 401.4368, 220.25 401.5855, 219.875 401.7118, 219.5 401.8153, 219.125 401.896, 218.75 401.9538, 218.375 401.9884, 218 402, 217.625 401.9884, 217.25 401.9538, 216.875 401.896, 216.5 401.8153, 216.125 401.7118, 215.75 401.5855, 215.375 401.4368, 215 401.2658, 214.625 401.0729, 214.25 400.8582, 213.875 400.6221, 213.5 400.3651, 213.125 400.0874, 212.75 399.7896, 212.375 399.472, 212 399.1353, 211.625 398.7798, 211.25 398.4061, 210.875 398.0148, 210.5 397.6066, 210.125 397.182, 209.75 396.7417, 209.375 396.2864, 209 395.8168, 208.625 395.3336, 208.25 394.8375, 207.875 394.3293, 207.5 393.8099, 207.125 393.2799, 206.75 392.7403, 206.375 392.1918, 206 391.6353, 205.625 391.0716, 205.25 390.5017, 204.875 389.9264, 204.5 389.3465, 204.125 388.7631, 203.75 388.1769, 203.375 387.5889, 203 387, 198 387" style="stroke: rgb(12%,20%,23%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:path d="M 298,387 L 233,387 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 233,387 L 232.625,387.588897 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 232.625,387.588897 L 232.25,388.176886 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 232.25,388.176886 L 231.875,388.763061 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 231.875,388.763061 L 231.5,389.346517 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 231.5,389.346517 L 231.125,389.926355 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 231.125,389.926355 L 230.75,390.50168 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 230.75,390.50168 L 230.375,391.071607 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 230.375,391.071607 L 230,391.635255 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 230,391.635255 L 229.625,392.191756 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 229.625,392.191756 L 229.25,392.740251 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 229.25,392.740251 L 228.875,393.279896 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 228.875,393.279896 L 228.5,393.809857 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 228.5,393.809857 L 228.125,394.329319 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 228.125,394.329319 L 227.75,394.837478 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 227.75,394.837478 L 227.375,395.333553 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 227.375,395.333553 L 227,395.816779 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 227,395.816779 L 226.625,396.286409 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 226.625,396.286409 L 226.25,396.741721 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 226.25,396.741721 L 225.875,397.182011 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 225.875,397.182011 L 225.5,397.606602 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 225.5,397.606602 L 225.125,398.014838 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 225.125,398.014838 L 224.75,398.406089 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 224.75,398.406089 L 224.375,398.779754 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 224.375,398.779754 L 224,399.135255 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 224,399.135255 L 223.625,399.472044 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 223.625,399.472044 L 223.25,399.789602 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 223.25,399.789602 L 222.875,400.08744 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 222.875,400.08744 L 222.5,400.365098 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 222.5,400.365098 L 222.125,400.622148 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 222.125,400.622148 L 221.75,400.858193 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 221.75,400.858193 L 221.375,401.07287 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 221.375,401.07287 L 221,401.265848 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 221,401.265848 L 220.625,401.436829 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 220.625,401.436829 L 220.25,401.585549 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 220.25,401.585549 L 219.875,401.711779 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 219.875,401.711779 L 219.5,401.815325 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 219.5,401.815325 L 219.125,401.896027 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 219.125,401.896027 L 218.75,401.95376 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 218.75,401.95376 L 218.375,401.988436 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 218.375,401.988436 L 218,402 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 218,402 L 217.625,401.988436 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 217.625,401.988436 L 217.25,401.95376 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 217.25,401.95376 L 216.875,401.896027 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 216.875,401.896027 L 216.5,401.815325 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 216.5,401.815325 L 216.125,401.711779 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 216.125,401.711779 L 215.75,401.585549 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 215.75,401.585549 L 215.375,401.436829 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 215.375,401.436829 L 215,401.265848 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 215,401.265848 L 214.625,401.07287 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 214.625,401.07287 L 214.25,400.858193 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 214.25,400.858193 L 213.875,400.622148 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 213.875,400.622148 L 213.5,400.365098 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 213.5,400.365098 L 213.125,400.08744 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 213.125,400.08744 L 212.75,399.789602 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 212.75,399.789602 L 212.375,399.472044 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 212.375,399.472044 L 212,399.135255 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 212,399.135255 L 211.625,398.779754 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 211.625,398.779754 L 211.25,398.406089 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 211.25,398.406089 L 210.875,398.014838 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 210.875,398.014838 L 210.5,397.606602 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 210.5,397.606602 L 210.125,397.182011 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 210.125,397.182011 L 209.75,396.741721 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 209.75,396.741721 L 209.375,396.286409 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 209.375,396.286409 L 209,395.816779 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 209,395.816779 L 208.625,395.333553 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 208.625,395.333553 L 208.25,394.837478 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 208.25,394.837478 L 207.875,394.329319 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 207.875,394.329319 L 207.5,393.809857 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 207.5,393.809857 L 207.125,393.279896 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 207.125,393.279896 L 206.75,392.740251 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 206.75,392.740251 L 206.375,392.191756 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 206.375,392.191756 L 206,391.635255 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 206,391.635255 L 205.625,391.071607 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 205.625,391.071607 L 205.25,390.50168 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 205.25,390.50168 L 204.875,389.926355 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 204.875,389.926355 L 204.5,389.346517 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 204.5,389.346517 L 204.125,388.763061 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 204.125,388.763061 L 203.75,388.176886 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 203.75,388.176886 L 203.375,387.588897 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 203.375,387.588897 L 203,387 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 203,387 L 198,387 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 218,362 L 278,362 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="278 362, 272.5973 359.3902, 272.5973 364.6098" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="190" y="335" style="font-family: Helvetica; font-size: 7px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,670) scale(1,-1)">Finish only free edge</ns0:text>
+			<ns0:rect x="328" y="301" width="140" height="192" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,96%); fill-rule: evenodd;" />
+			<ns0:text x="336" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,954) scale(1,-1)">CHECKED RESULT</ns0:text>
+			<ns0:polygon points="346 411, 346.0185 411.4708, 346.0739 411.9386, 346.1658 412.4007, 346.2937 412.8541, 346.4567 413.2961, 346.654 413.7239, 346.8842 414.135, 347.1459 414.5267, 347.4376 414.8967, 347.7574 415.2426, 348.1033 415.5624, 348.4733 415.8541, 348.865 416.1158, 349.2761 416.346, 349.7039 416.5433, 350.1459 416.7063, 350.5993 416.8342, 351.0614 416.9261, 351.5292 416.9815, 352 417, 440 417, 440.4708 416.9815, 440.9386 416.9261, 441.4007 416.8342, 441.8541 416.7063, 442.2961 416.5433, 442.7239 416.346, 443.135 416.1158, 443.5267 415.8541, 443.8967 415.5624, 444.2426 415.2426, 444.5624 414.8967, 444.8541 414.5267, 445.1158 414.135, 445.346 413.7239, 445.5433 413.2961, 445.7063 412.8541, 445.8342 412.4007, 445.9261 411.9386, 445.9815 411.4708, 446 411, 446 387, 381 387, 380.625 387.5889, 380.25 388.1769, 379.875 388.7631, 379.5 389.3465, 379.125 389.9264, 378.75 390.5017, 378.375 391.0716, 378 391.6353, 377.625 392.1918, 377.25 392.7403, 376.875 393.2799, 376.5 393.8099, 376.125 394.3293, 375.75 394.8375, 375.375 395.3336, 375 395.8168, 374.625 396.2864, 374.25 396.7417, 373.875 397.182, 373.5 397.6066, 373.125 398.0148, 372.75 398.4061, 372.375 398.7798, 372 399.1353, 371.625 399.472, 371.25 399.7896, 370.875 400.0874, 370.5 400.3651, 370.125 400.6221, 369.75 400.8582, 369.375 401.0729, 369 401.2658, 368.625 401.4368, 368.25 401.5855, 367.875 401.7118, 367.5 401.8153, 367.125 401.896, 366.75 401.9538, 366.375 401.9884, 366 402, 365.625 401.9884, 365.25 401.9538, 364.875 401.896, 364.5 401.8153, 364.125 401.7118, 363.75 401.5855, 363.375 401.4368, 363 401.2658, 362.625 401.0729, 362.25 400.8582, 361.875 400.6221, 361.5 400.3651, 361.125 400.0874, 360.75 399.7896, 360.375 399.472, 360 399.1353, 359.625 398.7798, 359.25 398.4061, 358.875 398.0148, 358.5 397.6066, 358.125 397.182, 357.75 396.7417, 357.375 396.2864, 357 395.8168, 356.625 395.3336, 356.25 394.8375, 355.875 394.3293, 355.5 393.8099, 355.125 393.2799, 354.75 392.7403, 354.375 392.1918, 354 391.6353, 353.625 391.0716, 353.25 390.5017, 352.875 389.9264, 352.5 389.3465, 352.125 388.7631, 351.75 388.1769, 351.375 387.5889, 351 387, 346 387" style="stroke: rgb(12%,20%,23%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,23%,26%); fill-rule: evenodd;" />
+			<ns0:path d="M 446,387 L 381,387 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 381,387 L 380.625,387.588897 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 380.625,387.588897 L 380.25,388.176886 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 380.25,388.176886 L 379.875,388.763061 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 379.875,388.763061 L 379.5,389.346517 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 379.5,389.346517 L 379.125,389.926355 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 379.125,389.926355 L 378.75,390.50168 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 378.75,390.50168 L 378.375,391.071607 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 378.375,391.071607 L 378,391.635255 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 378,391.635255 L 377.625,392.191756 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 377.625,392.191756 L 377.25,392.740251 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 377.25,392.740251 L 376.875,393.279896 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 376.875,393.279896 L 376.5,393.809857 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 376.5,393.809857 L 376.125,394.329319 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 376.125,394.329319 L 375.75,394.837478 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 375.75,394.837478 L 375.375,395.333553 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 375.375,395.333553 L 375,395.816779 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 375,395.816779 L 374.625,396.286409 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 374.625,396.286409 L 374.25,396.741721 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 374.25,396.741721 L 373.875,397.182011 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 373.875,397.182011 L 373.5,397.606602 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 373.5,397.606602 L 373.125,398.014838 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 373.125,398.014838 L 372.75,398.406089 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 372.75,398.406089 L 372.375,398.779754 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 372.375,398.779754 L 372,399.135255 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 372,399.135255 L 371.625,399.472044 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 371.625,399.472044 L 371.25,399.789602 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 371.25,399.789602 L 370.875,400.08744 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 370.875,400.08744 L 370.5,400.365098 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 370.5,400.365098 L 370.125,400.622148 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 370.125,400.622148 L 369.75,400.858193 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 369.75,400.858193 L 369.375,401.07287 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 369.375,401.07287 L 369,401.265848 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 369,401.265848 L 368.625,401.436829 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 368.625,401.436829 L 368.25,401.585549 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 368.25,401.585549 L 367.875,401.711779 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 367.875,401.711779 L 367.5,401.815325 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 367.5,401.815325 L 367.125,401.896027 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 367.125,401.896027 L 366.75,401.95376 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 366.75,401.95376 L 366.375,401.988436 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 366.375,401.988436 L 366,402 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 366,402 L 365.625,401.988436 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 365.625,401.988436 L 365.25,401.95376 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 365.25,401.95376 L 364.875,401.896027 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 364.875,401.896027 L 364.5,401.815325 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 364.5,401.815325 L 364.125,401.711779 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 364.125,401.711779 L 363.75,401.585549 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 363.75,401.585549 L 363.375,401.436829 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 363.375,401.436829 L 363,401.265848 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 363,401.265848 L 362.625,401.07287 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 362.625,401.07287 L 362.25,400.858193 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 362.25,400.858193 L 361.875,400.622148 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 361.875,400.622148 L 361.5,400.365098 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 361.5,400.365098 L 361.125,400.08744 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 361.125,400.08744 L 360.75,399.789602 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 360.75,399.789602 L 360.375,399.472044 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 360.375,399.472044 L 360,399.135255 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 360,399.135255 L 359.625,398.779754 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 359.625,398.779754 L 359.25,398.406089 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 359.25,398.406089 L 358.875,398.014838 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 358.875,398.014838 L 358.5,397.606602 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 358.5,397.606602 L 358.125,397.182011 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 358.125,397.182011 L 357.75,396.741721 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 357.75,396.741721 L 357.375,396.286409 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 357.375,396.286409 L 357,395.816779 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 357,395.816779 L 356.625,395.333553 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 356.625,395.333553 L 356.25,394.837478 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 356.25,394.837478 L 355.875,394.329319 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 355.875,394.329319 L 355.5,393.809857 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 355.5,393.809857 L 355.125,393.279896 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 355.125,393.279896 L 354.75,392.740251 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 354.75,392.740251 L 354.375,392.191756 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 354.375,392.191756 L 354,391.635255 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 354,391.635255 L 353.625,391.071607 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 353.625,391.071607 L 353.25,390.50168 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 353.25,390.50168 L 352.875,389.926355 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 352.875,389.926355 L 352.5,389.346517 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 352.5,389.346517 L 352.125,388.763061 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 352.125,388.763061 L 351.75,388.176886 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 351.75,388.176886 L 351.375,387.588897 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 351.375,387.588897 L 351,387 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 351,387 L 346,387 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.7;" />
+			<ns0:path d="M 366,362 L 426,362 Z" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="426 362, 420.5973 359.3902, 420.5973 364.6098" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="338" y="335" style="font-family: Helvetica; font-size: 7px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,670) scale(1,-1)">Finish only free edge</ns0:text>
+			<ns0:text x="32" y="279" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,558) scale(1,-1)">WHAT TO DO</ns0:text>
+			<ns0:text x="32" y="259" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,518) scale(1,-1)">1.</ns0:text>
+			<ns0:text x="49" y="259" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,518) scale(1,-1)">Lay the upper support in interior orientation: cutout on its lower left.</ns0:text>
+			<ns0:text x="32" y="239" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,478) scale(1,-1)">2.</ns0:text>
+			<ns0:text x="49" y="239" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,478) scale(1,-1)">Finish the lower insertion edge and cutout using the same approved soft overedge operation.</ns0:text>
+			<ns0:text x="32" y="219" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,438) scale(1,-1)">3.</ns0:text>
+			<ns0:text x="49" y="219" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,438) scale(1,-1)">Control the curve and secure tails without trimming into the flange clearance.</ns0:text>
+			<ns0:text x="32" y="199" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,398) scale(1,-1)">4.</ns0:text>
+			<ns0:text x="49" y="199" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,398) scale(1,-1)">Place both supports together and confirm their cutouts face one another.</ns0:text>
+			<ns0:text x="500" y="479" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,958) scale(1,-1)">SEWING OPERATION</ns0:text>
+			<ns0:text x="500" y="458" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,916) scale(1,-1)">Finish free pocket edges - soft three-thread overedge;</ns0:text>
+			<ns0:text x="500" y="444" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,888) scale(1,-1)">confirm formation</ns0:text>
+			<ns0:text x="500" y="422" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,844) scale(1,-1)">Joining allowance: 0.25 in where specified. Use the approved</ns0:text>
+			<ns0:text x="500" y="409" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,818) scale(1,-1)">coupon settings.</ns0:text>
+			<ns0:text x="500" y="381" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(18%,41%,31%); stroke:none;" transform="translate(0,762) scale(1,-1)">CHECK BEFORE CONTINUING</ns0:text>
+			<ns0:text x="500" y="362" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,724) scale(1,-1)">- Both flange reliefs are on the same diagram side.</ns0:text>
+			<ns0:text x="500" y="339" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,678) scale(1,-1)">- The opposed free edges stay flexible and accessible.</ns0:text>
+			<ns0:text x="500" y="311" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(67%,22%,22%); stroke:none;" transform="translate(0,622) scale(1,-1)">AVOID THIS</ns0:text>
+			<ns0:text x="500" y="292" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,584) scale(1,-1)">A 180-degree rotation moves the cutout to the wrong</ns0:text>
+			<ns0:text x="500" y="278" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,556) scale(1,-1)">side; use a vertical reflection.</ns0:text>
+			<ns0:text x="500" y="249" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,498) scale(1,-1)">RECORD</ns0:text>
+			<ns0:text x="500" y="231" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,462) scale(1,-1)">Operator / date / coupon ID / pass or issue. Stop and review</ns0:text>
+			<ns0:text x="500" y="218" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,436) scale(1,-1)">dependent parts if the check fails.</ns0:text>
+		</ns0:g>
+	</ns0:g>
+<ns0:a href="11-step-04---finish-the-lower-free-edge.svg"><ns0:text x="560" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Previous</ns0:text></ns0:a><ns0:a href="13-step-06---position-the-interior-supports.svg"><ns0:text x="665" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Next</ns0:text></ns0:a></ns0:svg>

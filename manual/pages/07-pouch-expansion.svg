@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="11in" height="8.5in" preserveAspectRatio="xMinYMin meet" viewBox="0 0 792 612" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+	<ns0:title>...</ns0:title>
+	<ns0:desc>...</ns0:desc>
+	<ns0:clipPath id="clip">
+		<ns0:rect x="0" y="0" width="792" height="612" />
+	</ns0:clipPath>
+	<ns0:g id="group" transform="scale(1,-1) translate(0,-612)" style="clip-path: url(#clip)">
+		<ns0:g transform="">
+			<ns0:rect x="0" y="0" width="792" height="612" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<ns0:rect x="0" y="605" width="792" height="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="32" y="580" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,1160) scale(1,-1)">REFERENCE / 07</ns0:text>
+			<ns0:text x="32" y="553" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,1106) scale(1,-1)">Pouch expansion and easing</ns0:text>
+			<ns0:text x="32" y="527" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,1054) scale(1,-1)">The flat maximum height is a design dimension. Outward depth is a separate, unverified physical requirement.</ns0:text>
+			<ns0:path d="M 32,508 L 760,508 Z" style="stroke: rgb(78%,83%,85%); stroke-linecap: butt; stroke-width: 1;" />
+			<ns0:text x="32" y="22" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,44) scale(1,-1)">ELEVEN FORWARD  /  EFBD-2026-10-14-R2  /  PROTOTYPE - PHYSICAL FIT NOT VERIFIED</ns0:text>
+			<ns0:text x="749.992" y="22" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,44) scale(1,-1)">07</ns0:text>
+			<ns0:path d="M 77,472 L 77,309 Z" style="stroke: rgb(12%,20%,23%); stroke-linecap: butt; stroke-width: 3;" />
+			<ns0:text x="55.444" y="477" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,954) scale(1,-1)">BODY</ns0:text>
+			<ns0:polygon points="77 469, 97 465, 147 445, 187 392, 147 339, 97 319, 77 315" style="stroke: rgb(32%,40%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,87%,83%); fill-rule: evenodd;" />
+			<ns0:polyline points="84 469, 104 465, 154 445, 194 392, 154 339, 104 319, 84 315" style="stroke: rgb(7%,43%,60%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;" />
+			<ns0:path d="M 77,392 L 187,392 Z" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<ns0:polygon points="187 392, 181.5973 389.3902, 181.5973 394.6098" style="stroke: rgb(64%,32%,7%); stroke-linecap: butt; stroke-width: 1; fill: rgb(64%,32%,7%); fill-rule: evenodd;" />
+			<ns0:text x="103.935" y="404.0" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(64%,32%,7%); stroke:none;" transform="translate(0,808) scale(1,-1)">1.5 in target</ns0:text>
+			<ns0:text x="227" y="457" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,914) scale(1,-1)">Measure perpendicular to the local body plane. Flat</ns0:text>
+			<ns0:text x="227" y="443" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,886) scale(1,-1)">extra fabric is not a depth guarantee.</ns0:text>
+			<ns0:text x="37" y="289" style="font-family: Helvetica; font-size: 8px;fill: rgb(32%,40%,44%); stroke:none;" transform="translate(0,578) scale(1,-1)">Side section / schematic - not to scale</ns0:text>
+			<ns0:text x="500" y="473" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,946) scale(1,-1)">REVISED BODY EDGE</ns0:text>
+			<ns0:text x="500" y="450" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,900) scale(1,-1)">Base 7 in; max 10 in. Extra 1.5 in above and below</ns0:text>
+			<ns0:text x="500" y="436" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,872) scale(1,-1)">across the 12-inch zone.</ns0:text>
+			<ns0:text x="500" y="410" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,820) scale(1,-1)">Each body seam line measures 34.639 in against a</ns0:text>
+			<ns0:text x="500" y="396" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,792) scale(1,-1)">34-inch band seam line. Local excess: 0.639 in (5.3% of</ns0:text>
+			<ns0:text x="500" y="382" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,764) scale(1,-1)">the straight zone).</ns0:text>
+			<ns0:text x="500" y="356" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,712) scale(1,-1)">Compute and baste the excess locally. Do not assume</ns0:text>
+			<ns0:text x="500" y="342" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,684) scale(1,-1)">stretching, trimming or a flat measurement guarantees</ns0:text>
+			<ns0:text x="500" y="328" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,656) scale(1,-1)">capacity.</ns0:text>
+			<ns0:rect x="32" y="61" width="728" height="168" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;" />
+			<ns0:rect x="32" y="61" width="3" height="168" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
+			<ns0:text x="44" y="209" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(7%,43%,60%); stroke:none;" transform="translate(0,418) scale(1,-1)">DEPTH CHECK / BEFORE PERMANENT SEWING</ns0:text>
+			<ns0:text x="44" y="191" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,382) scale(1,-1)">Use a curved body-representative fixture and smooth mock-up or gauge. Measure perpendicular to the local body plane at intermediate depth and at 1.5 in outward projection.</ns0:text>
+			<ns0:text x="44" y="179" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,358) scale(1,-1)">Check flange clearance, outlet access, insertion, removal, retention, recovery and band flatness. Do not sew with the reference bag in place. A failure stops the affected</ns0:text>
+			<ns0:text x="44" y="167" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,334) scale(1,-1)">operation and triggers review of #1, #2a, #2b, #3 and material stretch together. No clinical pressure or bag capacity is established by this check.</ns0:text>
+		</ns0:g>
+	</ns0:g>
+<ns0:a href="06-operation-chart.svg"><ns0:text x="560" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Previous</ns0:text></ns0:a><ns0:a href="08-step-01---prepare-the-fabrics.svg"><ns0:text x="665" y="604" font-size="8" font-family="Helvetica" fill="#146e9b">Next</ns0:text></ns0:a></ns0:svg>
