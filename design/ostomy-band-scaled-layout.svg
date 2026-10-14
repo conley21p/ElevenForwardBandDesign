@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="2200" viewBox="0 0 1500 2200"><defs><pattern id="knit" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#24282c"/><path d="M0 1l3 2 3-2 M0 4l3 2 3-2" stroke="#34393d" stroke-width=".5"/></pattern></defs><style>text{font-family:Arial,sans-serif}.dim{fill:none;stroke:#53646a;stroke-width:1.4}.fabric{fill:url(#knit);stroke:#11191c;stroke-width:2}</style><rect width="1500" height="2200" fill="#fbfcfa"/>
+<text x="65" y="55" font-size="32" font-weight="bold" fill="#202b30">OSTOMY BAND | REVISED ONE-PIECE OUTER</text>
+<text x="65" y="88" font-size="19" font-weight="normal" fill="#202b30">Example dimensions in inches • Every material outline uses the same scale: 30 pixels = 1 inch</text>
+<text x="65" y="118" font-size="17" font-weight="normal" fill="#202b30">Concept layout only. Dimensions are illustrative, not a validated sewing pattern.</text>
+<text x="65" y="166" font-size="23" font-weight="bold" fill="#202b30">#1  CONTINUOUS OUTER BAND — QTY 1</text>
+<text x="65" y="194" font-size="18" font-weight="normal" fill="#202b30">Moisture-wicking polyester–spandex compression knit</text>
+<path class="fabric" d="M90 285 H420 C480 285 480 270 540 270 H660 C720 270 720 285 780 285 H1110 V495 H780 C720 495 720 510 660 510 H540 C480 510 480 495 420 495 H90 Z"/>
+<path d="M90,566v16 M1110,566v16 M90,574h1020" class="dim"/>
+<text x="630.0" y="597" font-size="16" font-weight="normal" fill="#202b30">34 in overall width</text>
+<path d="M1202,285h16 M1202,495h16 M1210,285v210" class="dim"/>
+<text x="1222" y="396.0" font-size="16" font-weight="normal" fill="#202b30">7 in base height</text>
+<path d="M1342,270h16 M1342,510h16 M1350,270v240" class="dim"/>
+<text x="1362" y="396.0" font-size="16" font-weight="normal" fill="#202b30">8 in max</text>
+<path d="M420,215v16 M780,215v16 M420,223h360" class="dim"/>
+<text x="510" y="213" font-size="16" font-weight="normal" fill="#202b30">12 in pouch zone</text>
+<text x="400" y="620" font-size="18" font-weight="bold" fill="#202b30">Integral extra fabric: 0.5 in above + 0.5 in below the base profile</text>
+<text x="400" y="647" font-size="17" font-weight="normal" fill="#202b30">Volume is shaped during sewing; no separate front panel or gussets.</text>
+<text x="65" y="707" font-size="22" font-weight="bold" fill="#202b30">#2a  LOWER SUPPORT PIECE — QTY 1</text>
+<text x="65" y="733" font-size="18" font-weight="normal" fill="#202b30">Soft polyester–spandex knit</text>
+<path class="fabric" d="M90 880 H103 C106 880 106 894 110 901 C124 930 176 930 190 901 C194 893 193 880 202 880 H390 V940 Q390 955 372 962 Q360 970 345 970 H120 Q90 970 90 940 Z"/>
+<path d="M90,992v16 M390,992v16 M90,1000h300" class="dim"/>
+<text x="220" y="1023" font-size="16" font-weight="normal" fill="#202b30">10 in</text>
+<path d="M432,880h16 M432,970h16 M440,880v90" class="dim"/>
+<text x="452" y="931" font-size="16" font-weight="normal" fill="#202b30">3 in max</text>
+<text x="65" y="1050" font-size="17" font-weight="normal" fill="#202b30">Shaped cradle follows the lower half of the bag.</text>
+<text x="65" y="1075" font-size="17" font-weight="normal" fill="#202b30">Left flange cutout; pairs with upper support #2b.</text>
+<text x="780" y="707" font-size="22" font-weight="bold" fill="#202b30">OSTOMY BAG</text>
+<text x="780" y="733" font-size="18" font-weight="normal" fill="#202b30">For sizing reference — not part of the product</text>
+<path d="M810 790 H1035 Q1060 790 1065 820 V840 H1080 V920 H1065 Q1060 970 1035 970 H810 Q780 970 780 940 V820 Q780 790 810 790 Z" fill="#d7d4ca" stroke="#8f918a" stroke-width="2"/>
+<circle cx="840" cy="880" r="43" fill="#edece4" stroke="#a6a69e" stroke-width="2"/><circle cx="840" cy="880" r="30" fill="#b8b7af" stroke="#94958d"/>
+<path d="M90 880 H103 C106 880 106 894 110 901 C124 930 176 930 190 901 C194 893 193 880 202 880 H390 V940 Q390 955 372 962 Q360 970 345 970 H120 Q90 970 90 940 Z" transform="translate(690 0)" fill="#36444b" fill-opacity="0.20" stroke="#36444b" stroke-width="2"/>
+<path d="M90 880 H103 C106 880 106 894 110 901 C124 930 176 930 190 901 C194 893 193 880 202 880 H390 V940 Q390 955 372 962 Q360 970 345 970 H120 Q90 970 90 940 Z" transform="translate(690 1760) scale(1 -1)" fill="#36444b" fill-opacity="0.20" stroke="#36444b" stroke-width="2"/>
+<path d="M780,992v16 M1080,992v16 M780,1000h300" class="dim"/>
+<text x="930.0" y="1023" font-size="16" font-weight="normal" fill="#202b30">10 in — horizontal</text>
+<path d="M1112,790h16 M1112,970h16 M1120,790v180" class="dim"/>
+<text x="1132" y="886.0" font-size="16" font-weight="normal" fill="#202b30">6 in</text>
+<text x="780" y="1050" font-size="17" font-weight="normal" fill="#202b30">Upper and lower support shown around the flange.</text>
+<g font-family="Arial,sans-serif" fill="#202b30">
+<text x="65" y="1128" font-size="22" font-weight="bold">#2b  UPPER SUPPORT PIECE — QTY 1</text>
+<text x="65" y="1155" font-size="18">Soft polyester–spandex knit; left-side cutout along lower edge.</text>
+<path class="fabric" d="M90 880 H103 C106 880 106 894 110 901 C124 930 176 930 190 901 C194 893 193 880 202 880 H390 V940 Q390 955 372 962 Q360 970 345 970 H120 Q90 970 90 940 Z" transform="translate(0 2150) scale(1 -1)"/>
+<path class="dim" d="M90 1292v16 M390 1292v16 M90 1300h300 M432 1180h16 M432 1270h16 M440 1180v90"/>
+<text x="220" y="1323" font-size="16">10 in</text>
+<text x="452" y="1231" font-size="16">3 in max</text>
+<text x="650" y="1215" font-size="18">#2a supports the bottom; #2b retains the top.</text>
+<text x="650" y="1245" font-size="18">Use both pieces per band; left cutouts align around the flange.</text>
+</g>
+<g fill="#202b30">
+<text x="65" y="1380" font-size="23" font-weight="bold">#3  MATCHING TOP &amp; BOTTOM SUPPORT BANDS — QTY 2</text>
+<text x="65" y="1408" font-size="18">Proposed material: smooth matte polyester–spandex, matching the black body fabric.</text>
+<text x="65" y="1434" font-size="17">Firm stretch recovery • Plain exterior • Matching black thread • Minimal visible stitching</text>
+<path d="M90 1480 H1170 V1540 H90 Z" fill="#24282c" stroke="#11191c" stroke-width="2"/>
+<path d="M95 1484 H1165" fill="none" stroke="#34383b" stroke-width="1"/>
+<path class="dim" d="M90 1562v16 M1170 1562v16 M90 1570h1080 M1192 1480h16 M1192 1540h16 M1200 1480v60"/>
+<text x="510" y="1594" font-size="16">36 in each — identical top and bottom</text>
+<text x="1212" y="1516" font-size="16">2 in throughout</text>
+
+<text x="65" y="1627" font-size="17">Top: sew #1’s upper edge to one #3. Bottom: sew #1’s lower edge to the second identical #3.</text>
+<text x="65" y="1653" font-size="17">Ease #1’s extra pouch-zone fabric into both straight bands to form outward pouch room.</text>
+<text x="65" y="1679" font-size="17">The extra fabric in #1 forms outward pouch room; #3 stays a uniform height. Validate shaping in a sample.</text>
+<text x="65" y="1722" font-size="23" font-weight="bold">#4  HIGH-STRETCH CENTER-BACK PANEL — QTY 1</text>
+<text x="65" y="1750" font-size="18">Soft elastic knit panel — greater stretch than #1, with strong recovery; specification TBD.</text>
+<rect x="90" y="1780" width="60" height="210" fill="#394047" stroke="#11191c" stroke-width="2"/>
+<path class="dim" d="M90 2012v16 M150 2012v16 M90 2020h60 M182 1780h16 M182 1990h16 M190 1780v210"/>
+<text x="102" y="2044" font-size="16">2 in</text>
+<text x="202" y="1891" font-size="16">7 in</text>
+<text x="360" y="1825" font-size="19" font-weight="bold">Position: center back of the wearer.</text>
+<text x="360" y="1860" font-size="18">Sew one end of #1 to each 7-inch vertical edge of #4.</text>
+<text x="360" y="1895" font-size="18">34-inch outer panel + 2-inch back panel = 36-inch nominal loop.</text>
+<text x="360" y="1930" font-size="17">The total is before seam take-up and stretch adjustments.</text>
+<text x="360" y="1965" font-size="17">Select an elastic knit with greater stretch than the main compression fabric.</text>
+<text x="360" y="2000" font-size="17">Both joining edges match #1’s 7-inch base height.</text>
+<g transform="translate(0 200)"><text x="65" y="1905" font-size="18" font-weight="bold">#6  THREAD: black assembly; matching black stitching on #3. Neon lime remains optional elsewhere.</text>
+<text x="65" y="1935" font-size="18" font-weight="bold">#7  CENTER-BACK CLOSURE: matching hook-and-eye set — Qty 1 set; size / rows TBD.</text>
+<text x="65" y="1952" font-size="16">Shown: 5 fabric panels (including two identical #3s) + 1 elastic back panel + closure set + thread.</text>
+<text x="65" y="1977" font-size="16">Example proportions. Confirm closure access above back panel, fit, stretch, seam allowances and reinforcement in the final pattern.</text>
+</g></g></svg>
