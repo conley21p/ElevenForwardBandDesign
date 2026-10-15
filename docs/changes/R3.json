@@ -61,7 +61,8 @@
     "Flat catalog pieces include true cut allowances; returned borders follow the shared finishing rules, with joining allowances toward main panels to preserve insert stretch.",
     "The native cloth study includes an ellipsoidal horizontal reference-pouch collision envelope; it is not a supplied component or a fluid/flange simulation.",
     "Pipeline and renderer locks prevent duplicate builds from racing over artifact files.",
-    "Native XML uses a final newline to match actual Seamly2D export normalization; geometry is unchanged. Rebuild and revalidate all source-hashed artifacts."
+    "Native XML uses a final newline to match actual Seamly2D export normalization; geometry is unchanged. Rebuild and revalidate all source-hashed artifacts.",
+    "Pin strict byte-reproducibility CI to the macOS ARM authoring platform and Python 3.12.14 after a Linux SVG serialization mismatch. This changes CI environment only; geometry, materials, generator and renderer inputs remain unchanged. Linux byte-identical generation is unqualified."
   ],
   "unresolved_updates": [],
   "status": "complete",

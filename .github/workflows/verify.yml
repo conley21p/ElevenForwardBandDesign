@@ -2,12 +2,35 @@ name: Pattern, design, manual and render consistency
 on: [push, pull_request]
 jobs:
   verify:
-    runs-on: ubuntu-latest
+    runs-on: macos-15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.12.14'
       - run: pip install -r requirements.txt
       - run: python scripts/verify.py
+      - name: Diagnose a deterministic-output failure
+        if: failure()
+        run: |
+          python - <<'PYCODE'
+          import difflib, tempfile
+          from pathlib import Path
+          import sys
+          sys.path.insert(0, 'scripts')
+          from build import build
+          with tempfile.TemporaryDirectory() as td:
+              for rel, expected in build(Path.cwd(), Path(td)).items():
+                  actual = Path(rel).read_bytes()
+                  if actual == expected:
+                      continue
+                  print('First changed artifact:', rel, len(actual), len(expected))
+                  if rel.endswith(('.svg', '.json', '.sm2d', '.smis', '.md', '.dxf')):
+                      a, b = actual.decode(), expected.decode()
+                      changes = [v for v in difflib.SequenceMatcher(None, a, b, autojunk=False).get_opcodes() if v[0] != 'equal']
+                      for _, i, j, k, l in changes[:5]:
+                          print('saved:', repr(a[max(0, i-45):j+45]))
+                          print('built:', repr(b[max(0, k-45):l+45]))
+                  break
+          PYCODE
       - run: python -m unittest discover -s tests -v

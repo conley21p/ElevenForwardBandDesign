@@ -35,3 +35,5 @@ The final report and artifact manifests record exact source/scene/output hashes.
 The installed FFmpeg build has no drawtext filter. Catalog part labels are native Blender objects; the six stage captions are delivered as a synchronized SRT sidecar rather than burned overlays. The film has no audio.
 
 Native XML includes a final newline matching Seamly2D normalization. The actual-application round-trip audit is recorded in NATIVE_XML_VALIDATION.json; the source pattern and measurement files remain byte-for-byte unchanged after export.
+
+Strict byte-reproducibility CI is pinned to macOS on Apple Silicon and Python 3.12.14, matching the authoring platform. The Linux run produced a different serialized SVG and is not qualified for byte-identical regeneration. Full source, geometry, CAD, provenance and regression checks remain required on the qualified runner. GitHub documents the macos-15 ARM runner in its [hosted-runner reference](https://docs.github.com/en/actions/reference/runners/github-hosted-runners).
