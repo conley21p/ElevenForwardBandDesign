@@ -1,0 +1,329 @@
+{
+  "source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c",
+  "blender_version": "4.5.14 LTS",
+  "physical_verified": false,
+  "status": "synthetic uncalibrated gravity coupon observations; no material modulus or load-test certification",
+  "measurement_note": "Arc strain separates length change from bending; end-to-end distance is a chord. Gravity removal provides geometric recovery observations only.",
+  "results": {
+    "compression-0.005": {
+      "spacing_m": 0.005,
+      "mass_per_vertex_kg": 4.761904619954294e-06,
+      "area_m2": 0.005,
+      "observations": [
+        {
+          "frame": 1,
+          "finite": true,
+          "free_edge_drop_m": 0.0,
+          "end_to_end_m": 0.10000000149011612,
+          "mean_arc_length_m": 0.10000000149011612,
+          "mean_arc_strain": 1.4901161193847656e-08
+        },
+        {
+          "frame": 12,
+          "finite": true,
+          "free_edge_drop_m": -0.004693448543548584,
+          "end_to_end_m": 0.09472953822338356,
+          "mean_arc_length_m": 0.10008767137201123,
+          "mean_arc_strain": 0.000876713720112221
+        },
+        {
+          "frame": 24,
+          "finite": true,
+          "free_edge_drop_m": -0.005376317284323973,
+          "end_to_end_m": 0.09485874327488993,
+          "mean_arc_length_m": 0.1000859833293723,
+          "mean_arc_strain": 0.0008598332937228559
+        },
+        {
+          "frame": 48,
+          "finite": true,
+          "free_edge_drop_m": -0.003107691353017583,
+          "end_to_end_m": 0.09710523115350188,
+          "mean_arc_length_m": 0.1000564368140206,
+          "mean_arc_strain": 0.0005643681402058842
+        }
+      ],
+      "boundary": "one-edge-clamped horizontal cantilever; gravity removed after frame 24"
+    },
+    "compression-0.0025": {
+      "spacing_m": 0.0025,
+      "mass_per_vertex_kg": 1.2775842606060905e-06,
+      "area_m2": 0.005,
+      "observations": [
+        {
+          "frame": 1,
+          "finite": true,
+          "free_edge_drop_m": 0.0,
+          "end_to_end_m": 0.10000000149011612,
+          "mean_arc_length_m": 0.10000000149011612,
+          "mean_arc_strain": 1.4901161193847656e-08
+        },
+        {
+          "frame": 12,
+          "finite": true,
+          "free_edge_drop_m": 8.947934423175763e-05,
+          "end_to_end_m": 0.09917566655221746,
+          "mean_arc_length_m": 0.10003096134511576,
+          "mean_arc_strain": 0.00030961345115754213
+        },
+        {
+          "frame": 24,
+          "finite": true,
+          "free_edge_drop_m": 0.0004943580854506746,
+          "end_to_end_m": 0.09910107914929114,
+          "mean_arc_length_m": 0.10003165602579238,
+          "mean_arc_strain": 0.0003165602579238147
+        },
+        {
+          "frame": 48,
+          "finite": true,
+          "free_edge_drop_m": 0.0005853247074854018,
+          "end_to_end_m": 0.09885001281885455,
+          "mean_arc_length_m": 0.10003365280482618,
+          "mean_arc_strain": 0.00033652804826167504
+        }
+      ],
+      "boundary": "one-edge-clamped horizontal cantilever; gravity removed after frame 24"
+    },
+    "support-0.005": {
+      "spacing_m": 0.005,
+      "mass_per_vertex_kg": 3.89610386264394e-06,
+      "area_m2": 0.005,
+      "observations": [
+        {
+          "frame": 1,
+          "finite": true,
+          "free_edge_drop_m": 0.0,
+          "end_to_end_m": 0.10000000149011612,
+          "mean_arc_length_m": 0.10000000149011612,
+          "mean_arc_strain": 1.4901161193847656e-08
+        },
+        {
+          "frame": 12,
+          "finite": true,
+          "free_edge_drop_m": 0.0008335113525390625,
+          "end_to_end_m": 0.09438929524822624,
+          "mean_arc_length_m": 0.10012586870714418,
+          "mean_arc_strain": 0.001258687071441722
+        },
+        {
+          "frame": 24,
+          "finite": true,
+          "free_edge_drop_m": 0.00022052092985674898,
+          "end_to_end_m": 0.0938554533735093,
+          "mean_arc_length_m": 0.10009897612579575,
+          "mean_arc_strain": 0.0009897612579574666
+        },
+        {
+          "frame": 48,
+          "finite": true,
+          "free_edge_drop_m": -0.0018347203731536865,
+          "end_to_end_m": 0.0945386291205332,
+          "mean_arc_length_m": 0.10008269535179525,
+          "mean_arc_strain": 0.0008269535179523668
+        }
+      ],
+      "boundary": "one-edge-clamped horizontal cantilever; gravity removed after frame 24"
+    },
+    "support-0.0025": {
+      "spacing_m": 0.0025,
+      "mass_per_vertex_kg": 1.0452961305418285e-06,
+      "area_m2": 0.005,
+      "observations": [
+        {
+          "frame": 1,
+          "finite": true,
+          "free_edge_drop_m": 0.0,
+          "end_to_end_m": 0.10000000149011612,
+          "mean_arc_length_m": 0.10000000149011612,
+          "mean_arc_strain": 1.4901161193847656e-08
+        },
+        {
+          "frame": 12,
+          "finite": true,
+          "free_edge_drop_m": -7.03434149423865e-05,
+          "end_to_end_m": 0.09747070819843148,
+          "mean_arc_length_m": 0.10005732228653123,
+          "mean_arc_strain": 0.0005732228653123617
+        },
+        {
+          "frame": 24,
+          "finite": true,
+          "free_edge_drop_m": -0.00023679790042696602,
+          "end_to_end_m": 0.09689512151962922,
+          "mean_arc_length_m": 0.10004541371730402,
+          "mean_arc_strain": 0.0004541371730402144
+        },
+        {
+          "frame": 48,
+          "finite": true,
+          "free_edge_drop_m": -0.00048576224417917757,
+          "end_to_end_m": 0.09659863798461513,
+          "mean_arc_length_m": 0.10005361447155972,
+          "mean_arc_strain": 0.0005361447155971533
+        }
+      ],
+      "boundary": "one-edge-clamped horizontal cantilever; gravity removed after frame 24"
+    },
+    "band-0.005": {
+      "spacing_m": 0.005,
+      "mass_per_vertex_kg": 5.19480499860947e-06,
+      "area_m2": 0.005,
+      "observations": [
+        {
+          "frame": 1,
+          "finite": true,
+          "free_edge_drop_m": 0.0,
+          "end_to_end_m": 0.10000000149011612,
+          "mean_arc_length_m": 0.10000000149011612,
+          "mean_arc_strain": 1.4901161193847656e-08
+        },
+        {
+          "frame": 12,
+          "finite": true,
+          "free_edge_drop_m": 0.00029114430600946095,
+          "end_to_end_m": 0.0983156326913274,
+          "mean_arc_length_m": 0.10004447617374654,
+          "mean_arc_strain": 0.00044476173746521575
+        },
+        {
+          "frame": 24,
+          "finite": true,
+          "free_edge_drop_m": 0.0002008188854564219,
+          "end_to_end_m": 0.09874620441937204,
+          "mean_arc_length_m": 0.100044777360227,
+          "mean_arc_strain": 0.0004477736022698853
+        },
+        {
+          "frame": 48,
+          "finite": true,
+          "free_edge_drop_m": 0.0019410306757146611,
+          "end_to_end_m": 0.09917582589900725,
+          "mean_arc_length_m": 0.10004674535928172,
+          "mean_arc_strain": 0.00046745359281707977
+        }
+      ],
+      "boundary": "one-edge-clamped horizontal cantilever; gravity removed after frame 24"
+    },
+    "band-0.0025": {
+      "spacing_m": 0.0025,
+      "mass_per_vertex_kg": 1.3937282119513839e-06,
+      "area_m2": 0.005,
+      "observations": [
+        {
+          "frame": 1,
+          "finite": true,
+          "free_edge_drop_m": 0.0,
+          "end_to_end_m": 0.10000000149011612,
+          "mean_arc_length_m": 0.10000000149011612,
+          "mean_arc_strain": 1.4901161193847656e-08
+        },
+        {
+          "frame": 12,
+          "finite": true,
+          "free_edge_drop_m": -9.366444179148559e-07,
+          "end_to_end_m": 0.09965256892889217,
+          "mean_arc_length_m": 0.10002611080731393,
+          "mean_arc_strain": 0.0002611080731391713
+        },
+        {
+          "frame": 24,
+          "finite": true,
+          "free_edge_drop_m": -0.0001866150470006822,
+          "end_to_end_m": 0.09961743367295524,
+          "mean_arc_length_m": 0.10002506911676072,
+          "mean_arc_strain": 0.000250691167607231
+        },
+        {
+          "frame": 48,
+          "finite": true,
+          "free_edge_drop_m": -0.0002777633212861508,
+          "end_to_end_m": 0.0995335004067929,
+          "mean_arc_length_m": 0.10002152668979918,
+          "mean_arc_strain": 0.00021526689799178378
+        }
+      ],
+      "boundary": "one-edge-clamped horizontal cantilever; gravity removed after frame 24"
+    },
+    "elastic-0.005": {
+      "spacing_m": 0.005,
+      "mass_per_vertex_kg": 5.627705832011998e-06,
+      "area_m2": 0.005,
+      "observations": [
+        {
+          "frame": 1,
+          "finite": true,
+          "free_edge_drop_m": 0.0,
+          "end_to_end_m": 0.10000000149011612,
+          "mean_arc_length_m": 0.10000000149011612,
+          "mean_arc_strain": 1.4901161193847656e-08
+        },
+        {
+          "frame": 12,
+          "finite": true,
+          "free_edge_drop_m": -0.002897704189473882,
+          "end_to_end_m": 0.09110558427511938,
+          "mean_arc_length_m": 0.10013473389531172,
+          "mean_arc_strain": 0.0013473389531171165
+        },
+        {
+          "frame": 24,
+          "finite": true,
+          "free_edge_drop_m": -0.005934000015258789,
+          "end_to_end_m": 0.09032112186624576,
+          "mean_arc_length_m": 0.10014313364099402,
+          "mean_arc_strain": 0.0014313364099400872
+        },
+        {
+          "frame": 48,
+          "finite": true,
+          "free_edge_drop_m": -0.008137865500016606,
+          "end_to_end_m": 0.08689656609863337,
+          "mean_arc_length_m": 0.1001804078717141,
+          "mean_arc_strain": 0.0018040787171409445
+        }
+      ],
+      "boundary": "one-edge-clamped horizontal cantilever; gravity removed after frame 24"
+    },
+    "elastic-0.0025": {
+      "spacing_m": 0.0025,
+      "mass_per_vertex_kg": 1.5098722769835149e-06,
+      "area_m2": 0.005,
+      "observations": [
+        {
+          "frame": 1,
+          "finite": true,
+          "free_edge_drop_m": 0.0,
+          "end_to_end_m": 0.10000000149011612,
+          "mean_arc_length_m": 0.10000000149011612,
+          "mean_arc_strain": 1.4901161193847656e-08
+        },
+        {
+          "frame": 12,
+          "finite": true,
+          "free_edge_drop_m": -0.00012996934709097463,
+          "end_to_end_m": 0.09655222527115165,
+          "mean_arc_length_m": 0.10008261478715315,
+          "mean_arc_strain": 0.0008261478715314574
+        },
+        {
+          "frame": 24,
+          "finite": true,
+          "free_edge_drop_m": 7.922734533039044e-05,
+          "end_to_end_m": 0.09591173104840145,
+          "mean_arc_length_m": 0.10006708890333009,
+          "mean_arc_strain": 0.0006708890333009254
+        },
+        {
+          "frame": 48,
+          "finite": true,
+          "free_edge_drop_m": 0.00043343646185739493,
+          "end_to_end_m": 0.09551557394036327,
+          "mean_arc_length_m": 0.10007411390547666,
+          "mean_arc_strain": 0.0007411390547664709
+        }
+      ],
+      "boundary": "one-edge-clamped horizontal cantilever; gravity removed after frame 24"
+    }
+  }
+}

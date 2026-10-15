@@ -1,0 +1,13 @@
+{
+  "variant": "ease-05", "fps": 24, "duration_seconds": 40,
+  "review_resolution": [1920, 1080], "final_resolution": [3840, 2160],
+  "samples": 32, "audio": false,
+  "shots": [
+    {"start": 0, "end": 6, "name": "Six-piece catalog", "operations": ["CUT"]},
+    {"start": 6, "end": 14, "name": "Interior supports", "operations": ["EDGE", "POCKET"]},
+    {"start": 14, "end": 22, "name": "Matching bands fold and attach", "operations": ["FOLD", "EASE", "JOIN"]},
+    {"start": 22, "end": 28, "name": "Full-height back insert", "operations": ["HEM", "JOIN"]},
+    {"start": 28, "end": 34, "name": "Visible torso fit", "operations": []},
+    {"start": 34, "end": 40, "name": "Fitted invisible-wearer hero", "operations": []}
+  ]
+}

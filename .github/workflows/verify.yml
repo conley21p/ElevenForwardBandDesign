@@ -1,4 +1,4 @@
-name: Design and manual consistency
+name: Pattern, design, manual and render consistency
 on: [push, pull_request]
 jobs:
   verify:

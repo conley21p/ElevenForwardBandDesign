@@ -1,6 +1,6 @@
 # Assembly manual
 
-Revision **EFBD-2026-10-14-R2**. Prototype instructions; physical performance unverified.
+Revision **EFBD-2026-10-14-R3**. Prototype instructions; physical performance unverified.
 
 [Printable PDF](assembly-manual.pdf) | [Master material layout](../design/ostomy-band-scaled-layout.svg)
 

@@ -59,6 +59,10 @@ def verify(root=ROOT):
  text='\n'.join(p.extract_text() or '' for p in pdf.pages)
  assert s['revision'] in text and 'STEP 20' in text
  assert all(v['status']!='physically verified' or v.get('evidence') for v in s['physical_checks'].values())
+ from cad_bridge import validate as check_cad
+ check_cad(root)
+ from pipeline_verify import verify_pipeline
+ verify_pipeline(root)
  print('PASS: source review, deterministic outputs, 31 SVG pages, 31 PDF bookmarks, geometry and evidence status.')
  return True
 if __name__=='__main__':

@@ -1,0 +1,153 @@
+{
+  "revision": "EFBD-2026-10-14-R3",
+  "source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c",
+  "physical_verified": false,
+  "avatar_sections": [
+    {
+      "height_offset_in": -5.5,
+      "circumference_in": 39.942997243572336,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": -3.5,
+      "circumference_in": 38.08449473974518,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": 0,
+      "circumference_in": 34.00014852877679,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": 3.5,
+      "circumference_in": 31.568619333217505,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": 5.5,
+      "circumference_in": 32.979468113134594,
+      "status": "derived from provisional avatar"
+    }
+  ],
+  "coarse_studies": {
+    "ease-00": {
+      "frame": 48,
+      "finite": true,
+      "bounds_m": [
+        [
+          -0.1834733486175537,
+          0.1834733486175537
+        ],
+        [
+          -0.15522348880767822,
+          0.09906159341335297
+        ],
+        [
+          0.9745319485664368,
+          1.2577635049819946
+        ]
+      ],
+      "maximum_edge_strain": 1.4241825295234372,
+      "minimum_edge_strain": -0.6950187531145797
+    },
+    "ease-05": {
+      "frame": 48,
+      "finite": true,
+      "bounds_m": [
+        [
+          -0.1831788867712021,
+          0.1831788867712021
+        ],
+        [
+          -0.15649788081645966,
+          0.09899996966123581
+        ],
+        [
+          0.9746795892715454,
+          1.2579859495162964
+        ]
+      ],
+      "maximum_edge_strain": 1.448952778880551,
+      "minimum_edge_strain": -0.7084086129035564
+    },
+    "ease-10": {
+      "frame": 48,
+      "finite": true,
+      "bounds_m": [
+        [
+          -0.18336287140846252,
+          0.18336287140846252
+        ],
+        [
+          -0.1559077799320221,
+          0.09916181862354279
+        ],
+        [
+          0.97777259349823,
+          1.2576940059661865
+        ]
+      ],
+      "maximum_edge_strain": 1.5211976262454838,
+      "minimum_edge_strain": -0.5898429689882296
+    }
+  },
+  "mesh_comparison": {
+    "maximum_bounds_coordinate_change_mm": 2.881094813346863,
+    "maximum_edge_strain_difference": 0.020803746063607687,
+    "interpretation": "Different mesh extrema are not a convergence proof. Large local strains and absent physical calibration prevent production-fit qualification."
+  },
+  "depth_observations": [
+    {
+      "pose_fixture": "standing",
+      "requested_authored_radial_projection_in": 0,
+      "max_local_normal_projection_in": 0.0
+    },
+    {
+      "pose_fixture": "standing",
+      "requested_authored_radial_projection_in": 0.75,
+      "max_local_normal_projection_in": 0.7459987685065284
+    },
+    {
+      "pose_fixture": "standing",
+      "requested_authored_radial_projection_in": 1.5,
+      "max_local_normal_projection_in": 1.4919981236729463
+    },
+    {
+      "pose_fixture": "seated",
+      "requested_authored_radial_projection_in": 0,
+      "max_local_normal_projection_in": 0.0
+    },
+    {
+      "pose_fixture": "seated",
+      "requested_authored_radial_projection_in": 0.75,
+      "max_local_normal_projection_in": 0.7405669074940464
+    },
+    {
+      "pose_fixture": "seated",
+      "requested_authored_radial_projection_in": 1.5,
+      "max_local_normal_projection_in": 1.4811344016479824
+    },
+    {
+      "pose_fixture": "forward-bend",
+      "requested_authored_radial_projection_in": 0,
+      "max_local_normal_projection_in": 0.0
+    },
+    {
+      "pose_fixture": "forward-bend",
+      "requested_authored_radial_projection_in": 0.75,
+      "max_local_normal_projection_in": 0.7132907838424127
+    },
+    {
+      "pose_fixture": "forward-bend",
+      "requested_authored_radial_projection_in": 1.5,
+      "max_local_normal_projection_in": 1.4265847393148532
+    }
+  ],
+  "limitations": [
+    "Beauty geometry is authored fitted visualization, not calibrated simulation output.",
+    "Native cloth has large local strains; material settings are uncalibrated isotropic approximations.",
+    "Postures use geometric bends, not a musculoskeletal rig.",
+    "Pouch collision uses a rigid ellipsoid without flange, outlet or fluid.",
+    "Slip-on extension, comfort, retention, flange/outlet clearance, recovery and laundering require physical samples."
+  ]
+}

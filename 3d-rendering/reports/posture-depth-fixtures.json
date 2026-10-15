@@ -1,0 +1,309 @@
+{
+  "revision": "EFBD-2026-10-14-R3",
+  "source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c",
+  "physical_verified": false,
+  "posture_method": "smooth geometric torso bend; no musculoskeletal or load model",
+  "reference_center_y_m": -0.031307291666666674,
+  "results": [
+    {
+      "pose_fixture": "standing",
+      "requested_authored_radial_projection_in": 0,
+      "max_local_normal_projection_in": 0.0,
+      "clearance": {
+        "1": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.208886478911154
+        },
+        "2a": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.2805067157568573
+        },
+        "2b": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.5459457063116133
+        },
+        "3-bottom": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.4791238471616452
+        },
+        "3-top": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.119036255407991
+        },
+        "4": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.416262544807978
+        }
+      },
+      "retention_flange_outlet_recovery": "requires physical test",
+      "status": "geometric fixture observations only; not calibrated motion/cloth validation"
+    },
+    {
+      "pose_fixture": "standing",
+      "requested_authored_radial_projection_in": 0.75,
+      "max_local_normal_projection_in": 0.7459987685065284,
+      "clearance": {
+        "1": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.208886478911154
+        },
+        "2a": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.2805067157568573
+        },
+        "2b": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.5459457063116133
+        },
+        "3-bottom": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.4791238471616452
+        },
+        "3-top": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.119036255407991
+        },
+        "4": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.416262544807978
+        }
+      },
+      "retention_flange_outlet_recovery": "requires physical test",
+      "status": "geometric fixture observations only; not calibrated motion/cloth validation"
+    },
+    {
+      "pose_fixture": "standing",
+      "requested_authored_radial_projection_in": 1.5,
+      "max_local_normal_projection_in": 1.4919981236729463,
+      "clearance": {
+        "1": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.208886478911154
+        },
+        "2a": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.2805067157568573
+        },
+        "2b": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.5459457063116133
+        },
+        "3-bottom": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.4791238471616452
+        },
+        "3-top": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.119036255407991
+        },
+        "4": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.416262544807978
+        }
+      },
+      "retention_flange_outlet_recovery": "requires physical test",
+      "status": "geometric fixture observations only; not calibrated motion/cloth validation"
+    },
+    {
+      "pose_fixture": "seated",
+      "requested_authored_radial_projection_in": 0,
+      "max_local_normal_projection_in": 0.0,
+      "clearance": {
+        "1": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.331096286070533
+        },
+        "2a": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.1961874470216571
+        },
+        "2b": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.4459474605246214
+        },
+        "3-bottom": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.3300812170200516
+        },
+        "3-top": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.972183454199694
+        },
+        "4": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.483728799939854
+        }
+      },
+      "retention_flange_outlet_recovery": "requires physical test",
+      "status": "geometric fixture observations only; not calibrated motion/cloth validation"
+    },
+    {
+      "pose_fixture": "seated",
+      "requested_authored_radial_projection_in": 0.75,
+      "max_local_normal_projection_in": 0.7405669074940464,
+      "clearance": {
+        "1": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.376802568505809
+        },
+        "2a": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.1961874470216571
+        },
+        "2b": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.4459474605246214
+        },
+        "3-bottom": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.3300812170200516
+        },
+        "3-top": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.972183454199694
+        },
+        "4": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.483728799939854
+        }
+      },
+      "retention_flange_outlet_recovery": "requires physical test",
+      "status": "geometric fixture observations only; not calibrated motion/cloth validation"
+    },
+    {
+      "pose_fixture": "seated",
+      "requested_authored_radial_projection_in": 1.5,
+      "max_local_normal_projection_in": 1.4811344016479824,
+      "clearance": {
+        "1": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.376802568505809
+        },
+        "2a": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.1961874470216571
+        },
+        "2b": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.4459474605246214
+        },
+        "3-bottom": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.3300812170200516
+        },
+        "3-top": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.972183454199694
+        },
+        "4": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.483728799939854
+        }
+      },
+      "retention_flange_outlet_recovery": "requires physical test",
+      "status": "geometric fixture observations only; not calibrated motion/cloth validation"
+    },
+    {
+      "pose_fixture": "forward-bend",
+      "requested_authored_radial_projection_in": 0,
+      "max_local_normal_projection_in": 0.0,
+      "clearance": {
+        "1": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.022801429120591
+        },
+        "2a": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.0693020085454918
+        },
+        "2b": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.314824521614355
+        },
+        "3-bottom": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.2100548647140386
+        },
+        "3-top": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.5712233580416068
+        },
+        "4": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.5342542728831177
+        }
+      },
+      "retention_flange_outlet_recovery": "requires physical test",
+      "status": "geometric fixture observations only; not calibrated motion/cloth validation"
+    },
+    {
+      "pose_fixture": "forward-bend",
+      "requested_authored_radial_projection_in": 0.75,
+      "max_local_normal_projection_in": 0.7132907838424127,
+      "clearance": {
+        "1": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.17854549691765
+        },
+        "2a": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.0693020085454918
+        },
+        "2b": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.314824521614355
+        },
+        "3-bottom": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.2100548647140386
+        },
+        "3-top": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.5712233580416068
+        },
+        "4": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.5342542728831177
+        }
+      },
+      "retention_flange_outlet_recovery": "requires physical test",
+      "status": "geometric fixture observations only; not calibrated motion/cloth validation"
+    },
+    {
+      "pose_fixture": "forward-bend",
+      "requested_authored_radial_projection_in": 1.5,
+      "max_local_normal_projection_in": 1.4265847393148532,
+      "clearance": {
+        "1": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 2.17854549691765
+        },
+        "2a": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.0693020085454918
+        },
+        "2b": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.314824521614355
+        },
+        "3-bottom": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.2100548647140386
+        },
+        "3-top": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.5712233580416068
+        },
+        "4": {
+          "penetrations_over_0_5mm": 0,
+          "min_signed_clearance_mm": 1.5342542728831177
+        }
+      },
+      "retention_flange_outlet_recovery": "requires physical test",
+      "status": "geometric fixture observations only; not calibrated motion/cloth validation"
+    }
+  ],
+  "depth_note": "Local-normal observation may differ from authored radial target. Physical target acceptance remains open.",
+  "scene_file": "3d-rendering/scenes/diagnostic-fixtures.blend",
+  "scene_sha256": "fef2c940f8d1682960ee2f70df629da139f9446fc382884cc5846facef6322cb"
+}

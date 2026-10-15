@@ -1,0 +1,6 @@
+{
+  "baseline": {"ease_fraction": null, "role": "approved geometry; physical fit unverified"},
+  "ease-00": {"ease_fraction": 0, "role": "exploratory"},
+  "ease-05": {"ease_fraction": 0.05, "role": "initial visualization candidate only"},
+  "ease-10": {"ease_fraction": 0.1, "role": "exploratory"}
+}

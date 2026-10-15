@@ -1,0 +1,33 @@
+{
+  "reader": "ezdxf 1.4.3",
+  "variants": {
+    "baseline": {
+      "format": "AC1009",
+      "polylines": 12,
+      "errors": 0,
+      "repairs": 0,
+      "units": "coordinates in inches; set inches explicitly on import"
+    },
+    "ease-00": {
+      "format": "AC1009",
+      "polylines": 12,
+      "errors": 0,
+      "repairs": 0,
+      "units": "coordinates in inches; set inches explicitly on import"
+    },
+    "ease-05": {
+      "format": "AC1009",
+      "polylines": 12,
+      "errors": 0,
+      "repairs": 0,
+      "units": "coordinates in inches; set inches explicitly on import"
+    },
+    "ease-10": {
+      "format": "AC1009",
+      "polylines": 12,
+      "errors": 0,
+      "repairs": 0,
+      "units": "coordinates in inches; set inches explicitly on import"
+    }
+  }
+}

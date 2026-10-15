@@ -1,0 +1,70 @@
+{
+  "revision": "EFBD-2026-10-14-R3",
+  "request": "Implement native parametric patterns, provisional male avatar and fit variants, native cloth studies, realistic product scenes and 40-second assembly film.",
+  "question": "Does this change affect another part, material, dimension, seam, assembly step, instruction, or inspection requirement-and what else must be updated?",
+  "answer": "Yes. Trial circumferences alter body and both open bands, while the full-height insert and support rules remain connected. CAD allowances, seam maps, print patterns, supplements, avatar placement, meshes, material coupons, simulation cache, stills and film all derive from reviewed sources. The approved 36-inch baseline is retained. Tested Seamly zero-allowance support offsets were malformed, so the bridge derives those cut outlines and checks geometry.",
+  "direct_parts": [
+    "1",
+    "3"
+  ],
+  "dependent_parts": [
+    "2a",
+    "2b",
+    "4",
+    "6"
+  ],
+  "operations": [
+    "CUT",
+    "EDGE",
+    "POCKET",
+    "JOIN",
+    "HEM",
+    "FOLD",
+    "EASE"
+  ],
+  "outputs": [
+    "scaled layout",
+    "manual",
+    "native CAD and measurements",
+    "print patterns",
+    "seam manifests",
+    "Blender scenes",
+    "cloth/coupon/pose reports",
+    "renders",
+    "film",
+    "research",
+    "artifact manifests",
+    "generated README tables and profile descriptions",
+    "illustrated storyboard",
+    "readable mesh-comparison and limitations report",
+    "native XML round-trip audit"
+  ],
+  "invalidated_checks": [
+    "seam_extension",
+    "pouch_depth",
+    "flange_access",
+    "slip_on_extension",
+    "laundering",
+    "retention"
+  ],
+  "decisions": [
+    "Size 34 is a clothing label; height 74 inches is reported; body center 34 inches and wearing height 44 inches are provisional.",
+    "0/5/10 percent center ease are exploratory; 5 percent is a visualization candidate only.",
+    "Preserve the approved 34-inch body plus 2-inch insert baseline.",
+    "Both visible torso and fitted invisible-wearer views; black materials; no audio.",
+    "Real CAD bridge offsets support cut allowances instead of accepting malformed native contours.",
+    "Beauty geometry is authored visualization; native cloth and geometric posture fixtures are separate uncalibrated studies.",
+    "Native cloth uses flat-pattern rest lengths, both folded-band raw edges, and per-material structural/shear/bending stiffness groups; mass remains a documented averaged approximation.",
+    "Camera-slot controls and per-frame bounds checks preserve full product framing.",
+    "Generated geometry is quantized below drafting tolerances for cross-platform deterministic checks; native CAD receipt comparisons allow numerical ulp differences.",
+    "The current synchronized palette is black; a new palette must implement shader and layout support before validation can pass.",
+    "Flat catalog pieces include true cut allowances; returned borders follow the shared finishing rules, with joining allowances toward main panels to preserve insert stretch.",
+    "The native cloth study includes an ellipsoidal horizontal reference-pouch collision envelope; it is not a supplied component or a fluid/flange simulation.",
+    "Pipeline and renderer locks prevent duplicate builds from racing over artifact files.",
+    "Native XML uses a final newline to match actual Seamly2D export normalization; geometry is unchanged. Rebuild and revalidate all source-hashed artifacts."
+  ],
+  "unresolved_updates": [],
+  "status": "complete",
+  "verification": "24 regression tests passed after the native XML formatting correction. Actual Seamly2D export preserves native file bytes; normalized geometry is unchanged. All digital studies and media rebuilt at the corrected checksum. Both films are 960 native frames, 24 fps, 40 seconds. Product/manual visual review completed; physical acceptance and material calibration remain unverified.",
+  "reviewed_source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c"
+}

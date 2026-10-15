@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="1500" height="2520" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1500 2520" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R2">
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="1500" height="2520" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1500 2520" version="1.0" fill-rule="evenodd" data-design-revision="EFBD-2026-10-14-R3">
 	<ns0:title>...</ns0:title>
 	<ns0:desc>...</ns0:desc>
 	<ns0:clipPath id="clip">
@@ -10,7 +10,7 @@
 			<ns0:rect x="0" y="0" width="1500" height="2520" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
 			<ns0:rect x="0" y="2511" width="1500" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,43%,60%); fill-rule: evenodd;" />
 			<ns0:text x="60" y="2465" style="font-family: Helvetica-Bold; font-size: 30px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,4930) scale(1,-1)">ELEVEN FORWARD / MATERIAL AND CUTTING LAYOUT</ns0:text>
-			<ns0:text x="60" y="2432" style="font-family: Helvetica; font-size: 16px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,4864) scale(1,-1)">EFBD-2026-10-14-R2 | Common scale: 30 SVG units = 1 inch | Prototype, not a full-size print pattern</ns0:text>
+			<ns0:text x="60" y="2432" style="font-family: Helvetica; font-size: 16px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,4864) scale(1,-1)">EFBD-2026-10-14-R3 | Common scale: 30 SVG units = 1 inch | Prototype, not a full-size print pattern</ns0:text>
 			<ns0:text x="60" y="2404" style="font-family: Helvetica; font-size: 16px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,4808) scale(1,-1)">Pale = cutting allowance. Black = finished seam boundary. Blue dashed = seam line. Orange = fold.</ns0:text>
 			<ns0:text x="60" y="2374" style="font-family: Helvetica; font-size: 16px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,4748) scale(1,-1)">Cut sizes include prototype allowances; material behavior and outward pouch depth remain unverified.</ns0:text>
 			<ns0:text x="60" y="2329" style="font-family: Helvetica-Bold; font-size: 23px;fill: rgb(12%,20%,23%); stroke:none;" transform="translate(0,4658) scale(1,-1)">#1 MAIN OUTER BODY / QTY 1</ns0:text>

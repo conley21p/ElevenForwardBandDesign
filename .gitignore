@@ -4,3 +4,12 @@
 __pycache__/
 .venv/
 manual/qa/
+3d-rendering/cache/
+3d-rendering/frames/
+3d-rendering/qa/
+*.blend1
+*.sm2d.bak
+*.smis.bak
+*.lock
+3d-rendering/scenes/*simulation*.blend
+3d-rendering/video/*.mp4

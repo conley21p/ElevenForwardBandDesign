@@ -4,6 +4,13 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 def load(root=ROOT): return json.loads((root/'design/design-spec.json').read_text())
 def canonical(v): return json.dumps(v,sort_keys=True,separators=(',',':')).encode()
+def quantize(v,places=10):
+ """Stable generated geometry across libm/platform ulp differences, in inches."""
+ if isinstance(v,float):
+  value=round(v,places);return 0.0 if value==0 else value
+ if isinstance(v,dict):return {k:quantize(x,places) for k,x in v.items()}
+ if isinstance(v,(list,tuple)):return [quantize(x,places) for x in v]
+ return v
 def digest(v): return hashlib.sha256(canonical(v)).hexdigest()
 def n(v): return f'{v:g}'
 def dims(s):
@@ -71,8 +78,14 @@ def length(p):return sum(math.dist(a,b) for a,b in zip(p,p[1:]))
 def derived(s):
  d=dims(s);d['edge_length']=length(body_top(s));d['excess']=d['edge_length']-d['band_w'];d['zone_edge']=d['zone']+d['excess'];d['ease_percent']=100*d['excess']/d['zone'];return d
 
+def finishing_note(s):
+ expected={'body_band':'toward_body','back_join':'toward_main','support':'turned_under','back_hem':'turned_under'}
+ assert s['seam_finishing']==expected,'Finishing change requires synchronized manual and render implementation'
+ return 'Lay joining allowances toward #1/#3; keep #4 free to stretch.'
+
 def validate(s,steps):
  p=s['parts'];d=dims(s)
+ finishing_note(s)
  assert s['units']=='in' and s['scale']==30,'Unit/scale change requires renderer and instruction review'
  assert s['formulas']=={'extra_per_side':'(parts.1.max_height - parts.1.base_height) / 2','nominal_circumference':'parts.1.width + parts.4.width','band_cut_width':'parts.3.width + 2 * seam_allowance','band_cut_height':'2 * parts.3.height + 2 * seam_allowance'},'Dimensional formula changed: update the resolver and tests'
  assert set(p)=={'1','2a','2b','3','4','6'},'Active part IDs mismatch'

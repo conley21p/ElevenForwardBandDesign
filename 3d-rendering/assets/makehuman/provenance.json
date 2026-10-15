@@ -1,0 +1,17 @@
+{
+  "upstream": "https://github.com/makehumancommunity/makehuman",
+  "commit": "a8bc2d54ff0ac92e78ff71431b1023eda42bf482",
+  "license": "CC0-1.0 assets; no source software redistributed",
+  "downloaded": "2026-10-14",
+  "files": {
+    "athletic.target": "c171ff9cc95e96273beb3e3b1969a01988c2d4982ebc6fe04bf81cf72ee3b295",
+    "LICENSE.ASSETS.md": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c",
+    "base.obj": "8e761e6624b8f54536409135d1636da63b32486a90d4897f84e121d144f6fb4c",
+    "male.target": "70e228ba7164737dae664454394536fc5935fa48d333c1a97d77e2dc6eacc5f5"
+  },
+  "targets": {
+    "male.target": "caucasian-male-young.target, weight 1; generic synthetic identity",
+    "athletic.target": "universal-male-young-maxmuscle-averageweight.target, weight 0.65"
+  },
+  "note": "Visual profile only; not a measured body scan."
+}

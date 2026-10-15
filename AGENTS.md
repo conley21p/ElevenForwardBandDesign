@@ -13,3 +13,11 @@ Review material changes for needles, thread, feed, stretch, bulk and laundering;
 Invalidate affected physical results after relevant source changes. Never label unperformed tests as verified. Do not invent machine-specific threading routes. Distinguish flat pattern geometry from assembled outward depth. Preserve historical revisions, excluding them from current-output checks.
 
 Run `python scripts/build.py` and `python scripts/verify.py` before committing. Commit source, impact record, generated outputs and documentation together. CI checks consistency; branch protection is not presumed.
+
+Pattern drafting and 3D work use the same impact review. Approved geometry remains in design/design-spec.json; exploratory variants and provisional wearer values live in pattern-drafting/source. Pants size is not a measured waist. Never promote a trial ease setting into the approved design without a recorded decision and sample checks.
+
+Review CAD exports, seam manifests, avatars, simulation meshes, material calibration, scene caches, stills and video shots whenever their sources change. Native CAD edits must reconcile to JSON and regenerate. Actual CAD exports need a current bridge receipt. Scene/render/video manifests need the current source hash. Rebuild affected artifacts before publishing; delete or archive obsolete caches. Beauty geometry is authored visualization until measured calibration supports a simulation claim. Never use digital results to mark physical checks verified.
+
+Seamly2D's sampled zero-allowance concave pocket export was malformed in the tested version. Native support pieces therefore export seam lines only; the verified bridge derives their edge-specific cutting allowances. Do not re-enable native automatic support allowances without a geometry regression check.
+
+The root, drafting and rendering READMEs are generated from templates under docs/source and the two pipeline source directories. Update those templates rather than hand-editing generated READMEs; shared profile and dimensional values use template tokens. Renderer jobs use an exclusive local lock to avoid concurrent Metal jobs and mixed artifact caches.

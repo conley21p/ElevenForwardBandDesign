@@ -4,3 +4,12 @@
 *.json text eol=lf
 *.py text eol=lf
 *.md text eol=lf
+*.in text eol=lf
+*.sm2d text eol=lf
+*.smis text eol=lf
+*.dxf text eol=lf
+*.blend binary
+*.mp4 binary
+
+# Retain exact upstream CC0 target bytes, including comment whitespace.
+3d-rendering/assets/makehuman/*.target -whitespace

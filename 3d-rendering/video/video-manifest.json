@@ -1,0 +1,27 @@
+{
+  "revision": "EFBD-2026-10-14-R3",
+  "source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c",
+  "scene_hash": "1fe3117975013aae6308c1bffe817d4d847533f325166fdce16f033de75b44d1",
+  "render_settings": {
+    "source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c",
+    "scene_hash": "1fe3117975013aae6308c1bffe817d4d847533f325166fdce16f033de75b44d1",
+    "samples": 12,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "denoising": "GPU OpenImageDenoise",
+    "denoise_quality": "FAST",
+    "adaptive_min_samples": 2
+  },
+  "frames": 960,
+  "fps": 24,
+  "duration_seconds": 40,
+  "physical_verified": false,
+  "render_method": "Native Cycles 4K frames; no frame interpolation or resolution upscaling",
+  "outputs": {
+    "assembly-1080p.mp4": "ab760bb139311376df9983bc479633ebb455b1190d399d343a50377dadc3fa7f",
+    "assembly-4k.mp4": "3fdc60179c825108bf39e102d94ffb417ff19a86a2fb49c05f60c204611a9a90",
+    "assembly-captions.srt": "61ce12d238de2c85079616c62e2544f84961d87c6fabe2207d1ce6a94f2719f4"
+  }
+}

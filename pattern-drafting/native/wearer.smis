@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<smis><version>0.3.4</version><read-only>false</read-only><notes>Provisional waist = 34 inches; pants size is not a measured waist.</notes><unit>inch</unit><pm_system>998</pm_system><personal><family-name>Provisional</family-name><given-name>Athletic male</given-name><birth-date>1990-01-01</birth-date><gender>male</gender><email /></personal><body-measurements><m name="height" value="74" /><m name="waist_circ" value="34" /></body-measurements></smis>

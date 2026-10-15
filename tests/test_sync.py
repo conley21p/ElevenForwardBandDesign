@@ -8,10 +8,13 @@ from verify import verify,review_guard
 class GuardTests(unittest.TestCase):
  def setUp(self):
   self.tmp=tempfile.TemporaryDirectory();self.root=Path(self.tmp.name)
-  for path in ['design/design-spec.json','manual/source/steps.json','manual/source/references.json','docs/changes/R2.json']:
+  for path in ['design/design-spec.json','manual/source/steps.json','manual/source/references.json','docs/changes/R3.json']:
    dest=self.root/path;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(ROOT/path,dest)
   shutil.copytree(ROOT/'scripts',self.root/'scripts',ignore=shutil.ignore_patterns('__pycache__'))
   shutil.copyfile(ROOT/'requirements.txt',self.root/'requirements.txt')
+  for path in ['pattern-drafting/source','pattern-drafting/cad-export','3d-rendering/source','3d-rendering/scripts','3d-rendering/assets','docs/source']:
+   shutil.copytree(ROOT/path,self.root/path,ignore=shutil.ignore_patterns('__pycache__'))
+  review=self.root/'docs/changes/R3.json';fixture=json.loads(review.read_text());fixture['status']='complete';fixture['unresolved_updates']=[];fixture['reviewed_source_hash']=source_hash(self.root);fixture['verification']='Unit-test fixture; no physical result is verified';review.write_text(json.dumps(fixture))
   self.s=load(self.root)
  def tearDown(self):self.tmp.cleanup()
  def write(self): (self.root/'design/design-spec.json').write_text(json.dumps(self.s))
@@ -44,10 +47,15 @@ class GuardTests(unittest.TestCase):
   b=bounds(cut(self.s,'4'));self.assertAlmostEqual(b[2]-b[0],2.5);self.assertAlmostEqual(b[3]-b[1],11.5)
   lo=shape(self.s,'2a');hi=shape(self.s,'2b');self.assertEqual(hi,[(x,3-y) for x,y in reversed(lo)])
   self.assertAlmostEqual(bounds(shape(self.s,'1'))[3],10);self.assertGreater(derived(self.s)['edge_length'],34)
- def test_11_approved_change_regenerates_both(self):
+ def test_11_approved_change_regenerates_and_requires_new_cad(self):
   self.s['parts']['1']['max_height']=11;self.write()
-  impact=json.loads((self.root/'docs/changes/R2.json').read_text());impact['reviewed_source_hash']=source_hash(self.root);(self.root/'docs/changes/R2.json').write_text(json.dumps(impact))
-  build(self.root,self.root);verify(self.root)
+  impact=json.loads((self.root/'docs/changes/R3.json').read_text());impact['reviewed_source_hash']=source_hash(self.root);(self.root/'docs/changes/R3.json').write_text(json.dumps(impact))
+  build(self.root,self.root)
+  with self.assertRaisesRegex(AssertionError,'CAD baseline/1/finished'):verify(self.root)
   self.assertIn('11 in max',(self.root/'design/ostomy-band-scaled-layout.svg').read_text())
   self.assertIn('11 max',(self.root/'docs/DESIGN_SPEC.md').read_text())
+  self.assertIn('name="#MaxHeight" formula="11"',(self.root/'pattern-drafting/native/baseline.sm2d').read_text())
+ def test_12_renderer_material_change_requires_review(self):
+  path=self.root/'3d-rendering/source/materials.json';m=json.loads(path.read_text());m['profiles']['band']['gsm']=310;path.write_text(json.dumps(m))
+  with self.assertRaisesRegex(AssertionError,'Unreviewed source change'):review_guard(self.root,self.s)
 if __name__=='__main__':unittest.main()

@@ -2,6 +2,10 @@
 
 A synchronized ostomy-band material layout and illustrated prototype sewing manual.
 
+**[Parametric patterns and full-scale print files](pattern-drafting/README.md)** · **[Blender scenes and product film](3d-rendering/README.md)** · **[Drafting/rendering research](docs/3D_RESEARCH.md)**
+
+The 3D study adds an athletic 74-inch male avatar with a size-34 pants label and a provisional 34-inch body reference. The approved 36-inch baseline remains intact. Three separate ease variants support exploration; their physical fit is unverified. The initial visualization uses the 5% center-ease candidate. Wearer measurements and actual material calibration are required before production approval.
+
 **[Read the assembly manual](manual/index.md)** · **[Download the printable PDF](manual/assembly-manual.pdf)** · **[Open the material and cutting layout](design/ostomy-band-scaled-layout.svg)**
 
 ![Material and cutting layout](design/ostomy-band-scaled-layout.svg)
@@ -46,7 +50,7 @@ Direct edits to generated SVGs or the PDF fail verification. A visual edit reque
 - [Current specification](docs/DESIGN_SPEC.md)
 - [Design context and remaining prototype work](docs/DESIGN_CONTEXT.md)
 - [Sources and research limits](docs/RESEARCH.md)
-- [Current impact review](docs/changes/R2.json)
+- [Current impact review](docs/changes/R3.json)
 - [Current physical-check status](design/design-spec.json)
 
 The 30-unit/inch master layout is proportional; ordinary screen display and print do not make it a 1:1 cutting pattern. Detail illustrations in the manual are schematic. The bag is a sizing reference, not a product component. Sewing settings and seam allowances are prototype choices, not a certification or a verified branded-material specification.

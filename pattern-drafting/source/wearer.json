@@ -1,0 +1,17 @@
+{
+  "id": "male-athletic-size34-provisional",
+  "sex_profile": "adult male",
+  "physique": "athletic",
+  "pants_size": {"value": 34, "status": "reported clothing label"},
+  "height": {"value": 74, "unit": "in", "status": "reported"},
+  "band_center_circumference": {"value": 34, "unit": "in", "status": "provisional"},
+  "band_center_height": {"value": 44, "unit": "in", "status": "provisional; revised after avatar crotch-clearance inspection"},
+  "upper_edge_circumference": {"value": null, "unit": "in", "status": "not measured"},
+  "lower_edge_circumference": {"value": null, "unit": "in", "status": "not measured"},
+  "hip_seat_circumference": {"value": null, "unit": "in", "status": "not measured"},
+  "front_side_back_lengths": {"value": null, "unit": "in", "status": "not measured"},
+  "pouch_anatomical_side": {"value": null, "status": "not measured; interior-left schematic only"},
+  "actual_pouch_flange_outlet": {"value": null, "unit": "in", "status": "not measured"},
+  "standing_seated_measurements": {"value": null, "unit": "in", "status": "not measured"},
+  "production_approved": false
+}

@@ -1,6 +1,6 @@
 # Current design specification
 
-Revision: **EFBD-2026-10-14-R2**. Generated from shared design data; edit the source, not this table.
+Revision: **EFBD-2026-10-14-R3**. Generated from shared design data; edit the source, not this table.
 
 ## Parts
 

@@ -1,0 +1,138 @@
+{
+  "revision": "EFBD-2026-10-14-R3",
+  "source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c",
+  "blender_version": "4.5.14 LTS",
+  "variant": "ease-05",
+  "mode": "simulation",
+  "mesh_spacing_m": 0.0025,
+  "units": "meters",
+  "physical_verified": false,
+  "hero_geometry": "authored fitted visualization; not calibrated cloth output",
+  "piece_count": 6,
+  "vertex_counts": {
+    "1": 31827,
+    "2a": 3296,
+    "2b": 3296,
+    "3-top": 13287,
+    "3-bottom": 13287,
+    "4": 2486
+  },
+  "provisional_center_target_in": 34,
+  "avatar_sections": [
+    {
+      "height_offset_in": -5.5,
+      "circumference_in": 39.942997243572336,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": -3.5,
+      "circumference_in": 38.08449473974518,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": 0,
+      "circumference_in": 34.00014852877679,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": 3.5,
+      "circumference_in": 31.568619333217505,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": 5.5,
+      "circumference_in": 32.979468113134594,
+      "status": "derived from provisional avatar"
+    }
+  ],
+  "render_cut_envelopes_in": {
+    "1": [
+      -0.25,
+      -0.25,
+      30.549999999999997,
+      10.25
+    ],
+    "2a": [
+      -0.25,
+      0.0,
+      10.25,
+      3.25
+    ],
+    "2b": [
+      -0.25,
+      -0.25,
+      10.25,
+      3.0
+    ],
+    "3-top": [
+      -0.25,
+      -0.25000000000000006,
+      30.549999999999997,
+      4.25
+    ],
+    "3-bottom": [
+      -0.25,
+      -0.25000000000000006,
+      30.549999999999997,
+      4.25
+    ],
+    "4": [
+      -0.25,
+      -0.25,
+      2.25,
+      11.25
+    ]
+  },
+  "allowance_vertex_counts": {
+    "1": 820,
+    "2a": 165,
+    "2b": 165,
+    "3-top": 700,
+    "3-bottom": 700,
+    "4": 266
+  },
+  "native_cloth_run": {
+    "frames": 48,
+    "sewing_edges": 1944,
+    "fixture_pin_vertices": 618,
+    "rest_shape": "flat seam-line patterns in meters",
+    "mass_per_vertex_kg": 1.3511005363397999e-06,
+    "material_groups": [
+      "tension/compression",
+      "shear",
+      "bending"
+    ],
+    "mass_note": "Full cut-area GSM-derived total mass averaged across seam-line vertices; not per-material vertex mass",
+    "reference_pouch_collision": {
+      "width_in": 10,
+      "height_in": 6,
+      "depth_in": 1.5,
+      "shape": "rigid ellipsoidal sizing envelope; flange/outlet and fluid unmodeled"
+    },
+    "snapshots": [
+      {
+        "frame": 48,
+        "finite": true,
+        "bounds_m": [
+          [
+            -0.1837550550699234,
+            0.1837967336177826
+          ],
+          [
+            -0.1536167860031128,
+            0.09942204505205154
+          ],
+          [
+            0.9769164323806763,
+            1.2573610544204712
+          ]
+        ],
+        "maximum_edge_strain": 1.4697565249441586,
+        "minimum_edge_strain": -0.6219843008616621
+      }
+    ],
+    "status": "exploratory fixture-pinned simulation; physical calibration absent"
+  },
+  "scene_file": "3d-rendering/scenes/ease-05-simulation-2.5mm.blend",
+  "scene_sha256": "c3e0596fc24ccb3af0923b6e712fd9e53b0411898bde5cd4958a44333c79740e"
+}

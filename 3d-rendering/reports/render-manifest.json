@@ -1,0 +1,25 @@
+{
+  "revision": "EFBD-2026-10-14-R3",
+  "source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c",
+  "scene_hash": "1fe3117975013aae6308c1bffe817d4d847533f325166fdce16f033de75b44d1",
+  "resolution": [
+    3840,
+    2160
+  ],
+  "samples": 48,
+  "engine": "Cycles",
+  "physical_verified": false,
+  "mode": "stills",
+  "files": {
+    "assembly.png": "906fc943ed0fcf40f4fe7003bb193e6accd9c0f52cc9ba4ed927f52fe3e78a57",
+    "catalog.png": "006f0b67c222cfa66d448486585b23e52f4176886f8fc32dea4682a4491df363",
+    "hero-angle.png": "439891a70048ae564fdb9c2295c72c03074c8cf92b86428244fda88fc7e6047e",
+    "hero-back.png": "8768719a2e4b632edfb88f36ce1d78adeccb81311f0d45279e6ba48d5f208f28",
+    "hero-front.png": "4533f7c0c27097f116623419fd43e714687ab5e9ef18245ea389174c40822437",
+    "hero-side.png": "48192bc5557de25417a490619cb7021dbfa6ceb931e4d734655705d4ceedd5b0",
+    "interior.png": "7710cd28ee59b98eb72e72359b146eb1569ae684684a488f74f36fd7566a953f",
+    "material-detail.png": "29fb255b7bb9523d0dd7973a4bfc49061491e0e5d8b6db3833e72ca1d05d5465",
+    "supports.png": "f0439e702bbd7ae24ce7e3c2a55eb8ff514e8c19e671c708d96c21327e4e58cc",
+    "torso-fit.png": "bb2651da11a8eebf881c8f2bd7f1284df8cba8de44b2b89a9265a80747c62e34"
+  }
+}

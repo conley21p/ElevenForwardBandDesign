@@ -1,0 +1,170 @@
+{
+  "revision": "EFBD-2026-10-14-R3",
+  "source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c",
+  "blender_version": "4.5.14 LTS",
+  "variant": "ease-05",
+  "mode": "hero",
+  "mesh_spacing_m": 0.005,
+  "units": "meters",
+  "physical_verified": false,
+  "hero_geometry": "authored fitted visualization; not calibrated cloth output",
+  "piece_count": 6,
+  "vertex_counts": {
+    "1": 8060,
+    "2a": 884,
+    "2b": 884,
+    "3-top": 3565,
+    "3-bottom": 3565,
+    "4": 684
+  },
+  "provisional_center_target_in": 34,
+  "avatar_sections": [
+    {
+      "height_offset_in": -5.5,
+      "circumference_in": 39.942997243572336,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": -3.5,
+      "circumference_in": 38.08449473974518,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": 0,
+      "circumference_in": 34.00014852877679,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": 3.5,
+      "circumference_in": 31.568619333217505,
+      "status": "derived from provisional avatar"
+    },
+    {
+      "height_offset_in": 5.5,
+      "circumference_in": 32.979468113134594,
+      "status": "derived from provisional avatar"
+    }
+  ],
+  "render_cut_envelopes_in": {
+    "1": [
+      -0.25,
+      -0.25,
+      30.549999999999997,
+      10.25
+    ],
+    "2a": [
+      -0.25,
+      0.0,
+      10.25,
+      3.25
+    ],
+    "2b": [
+      -0.25,
+      -0.25,
+      10.25,
+      3.0
+    ],
+    "3-top": [
+      -0.25,
+      -0.25,
+      30.549999999999997,
+      4.25
+    ],
+    "3-bottom": [
+      -0.25,
+      -0.25,
+      30.549999999999997,
+      4.25
+    ],
+    "4": [
+      -0.25,
+      -0.25,
+      2.25,
+      11.25
+    ]
+  },
+  "allowance_vertex_counts": {
+    "1": 410,
+    "2a": 84,
+    "2b": 84,
+    "3-top": 352,
+    "3-bottom": 352,
+    "4": 134
+  },
+  "avatar_intersection_check": {
+    "1": {
+      "inside_vertices_over_0_5mm": 0,
+      "minimum_signed_distance_m": 0.0028528991097118706
+    },
+    "2a": {
+      "inside_vertices_over_0_5mm": 0,
+      "minimum_signed_distance_m": 0.0012805067157568573
+    },
+    "2b": {
+      "inside_vertices_over_0_5mm": 0,
+      "minimum_signed_distance_m": 0.0015459457063116133
+    },
+    "3-top": {
+      "inside_vertices_over_0_5mm": 0,
+      "minimum_signed_distance_m": 0.003162400967994472
+    },
+    "3-bottom": {
+      "inside_vertices_over_0_5mm": 0,
+      "minimum_signed_distance_m": 0.001807414064387558
+    },
+    "4": {
+      "inside_vertices_over_0_5mm": 0,
+      "minimum_signed_distance_m": 0.0016556738844997199
+    }
+  },
+  "scenarios": [
+    {
+      "pose": "standing",
+      "pouch_projection_in": 0,
+      "status": "requires physical test; authored geometry only; no retention/pressure inference"
+    },
+    {
+      "pose": "standing",
+      "pouch_projection_in": 0.75,
+      "status": "requires physical test; authored geometry only; no retention/pressure inference"
+    },
+    {
+      "pose": "standing",
+      "pouch_projection_in": 1.5,
+      "status": "requires physical test; authored geometry only; no retention/pressure inference"
+    },
+    {
+      "pose": "seated",
+      "pouch_projection_in": 0,
+      "status": "requires physical test; authored geometry only; no retention/pressure inference"
+    },
+    {
+      "pose": "seated",
+      "pouch_projection_in": 0.75,
+      "status": "requires physical test; authored geometry only; no retention/pressure inference"
+    },
+    {
+      "pose": "seated",
+      "pouch_projection_in": 1.5,
+      "status": "requires physical test; authored geometry only; no retention/pressure inference"
+    },
+    {
+      "pose": "forward bend",
+      "pouch_projection_in": 0,
+      "status": "requires physical test; authored geometry only; no retention/pressure inference"
+    },
+    {
+      "pose": "forward bend",
+      "pouch_projection_in": 0.75,
+      "status": "requires physical test; authored geometry only; no retention/pressure inference"
+    },
+    {
+      "pose": "forward bend",
+      "pouch_projection_in": 1.5,
+      "status": "requires physical test; authored geometry only; no retention/pressure inference"
+    }
+  ],
+  "production_approval": false,
+  "scene_file": "3d-rendering/scenes/ease-05-hero.blend",
+  "scene_sha256": "1fe3117975013aae6308c1bffe817d4d847533f325166fdce16f033de75b44d1"
+}

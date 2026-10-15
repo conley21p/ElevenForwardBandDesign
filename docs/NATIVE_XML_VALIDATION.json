@@ -1,0 +1,28 @@
+{
+  "source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c",
+  "application": "Seamly2D 2026.10.12.200",
+  "check": "Actual application export preserves all generated native XML bytes after final-newline normalization",
+  "input_sha256": {
+    "pattern-drafting/native/baseline.sm2d": "5ae6fe5d30fc41590c08aa381daf55130a4d02f202b18b3aa132ef1e467549d2",
+    "pattern-drafting/native/wearer.smis": "bd20d291493c851626853197cb53b0ebd6528e83c4191241eff72e5c60aa471e",
+    "pattern-drafting/native/ease-05.sm2d": "99d6ece61977ca621a721fac4540ea2c8bc5354fa43a993f01a88c7c5b90bd5b",
+    "pattern-drafting/native/ease-10.sm2d": "5c8c86ff10c9b43aeb6428a7c9ed2de5e9072c061f6a293cbfb530c9e3b2c1ab",
+    "pattern-drafting/native/ease-00.sm2d": "abab4145521edd2f13982546b7e66b456a834394943b5dadf69fbdbc774d0b6b"
+  },
+  "output_sha256": {
+    "pattern-drafting/native/baseline.sm2d": "5ae6fe5d30fc41590c08aa381daf55130a4d02f202b18b3aa132ef1e467549d2",
+    "pattern-drafting/native/wearer.smis": "bd20d291493c851626853197cb53b0ebd6528e83c4191241eff72e5c60aa471e",
+    "pattern-drafting/native/ease-05.sm2d": "99d6ece61977ca621a721fac4540ea2c8bc5354fa43a993f01a88c7c5b90bd5b",
+    "pattern-drafting/native/ease-10.sm2d": "5c8c86ff10c9b43aeb6428a7c9ed2de5e9072c061f6a293cbfb530c9e3b2c1ab",
+    "pattern-drafting/native/ease-00.sm2d": "abab4145521edd2f13982546b7e66b456a834394943b5dadf69fbdbc774d0b6b"
+  },
+  "status": "passed",
+  "geometry_changed": false,
+  "physical_verified": false,
+  "normalized_geometry_identical_to_pre_format_fix": {
+    "baseline": true,
+    "ease-00": true,
+    "ease-05": true,
+    "ease-10": true
+  }
+}

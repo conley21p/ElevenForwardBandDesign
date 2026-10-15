@@ -1,0 +1,12 @@
+{
+  "status": "provisional visual settings; no physical calibration",
+  "profiles": {
+    "compression": {"gsm": 220, "thickness_mm": 0.6, "roughness": 0.56, "tension": 8, "compression": 8, "shear": 6, "bending": 0.3},
+    "support": {"gsm": 180, "thickness_mm": 0.45, "roughness": 0.62, "tension": 5, "compression": 5, "shear": 4, "bending": 0.2},
+    "band": {"gsm": 240, "thickness_mm": 0.65, "roughness": 0.53, "tension": 12, "compression": 12, "shear": 8, "bending": 0.45},
+    "elastic": {"gsm": 260, "thickness_mm": 0.8, "roughness": 0.6, "tension": 3, "compression": 3, "shear": 3, "bending": 0.22}
+  },
+  "physical_required": ["fiber composition", "thickness", "mass per area", "load-extension in both directions", "recovery", "bending", "seam coupon extension", "laundering"],
+  "physical_results": null,
+  "physical_verified": false
+}

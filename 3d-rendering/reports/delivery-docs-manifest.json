@@ -1,0 +1,10 @@
+{
+  "revision": "EFBD-2026-10-14-R3",
+  "source_hash": "15804b0dec6a91c13530c7811c2ede56ee0e155bd83d48792d9b1affc184f32c",
+  "physical_verified": false,
+  "files": {
+    "3d-rendering/STORYBOARD.md": "704f0a0389dae770b7c9e6ca0cfbb94a38916fa8113b2ebe6a9c931c97f86392",
+    "3d-rendering/reports/fit-study.json": "f6557aeea5e22950d7922fb465e4781ec2595797bf73dc55ffc7612737559e78",
+    "3d-rendering/reports/fit-study.md": "93a73ac223a2e7e18129a6e1be292652be86d2b9e06f5d80f20c7002acf9e0b1"
+  }
+}

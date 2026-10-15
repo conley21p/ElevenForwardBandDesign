@@ -10,10 +10,8 @@ from pages import *
 
 SOURCE_PATHS=['design/design-spec.json','manual/source/steps.json','manual/source/references.json']
 def source_hash(root):
- facts={p:json.loads((root/p).read_text()) for p in SOURCE_PATHS}
- facts['generator_sources']={str(p.relative_to(root)):p.read_text() for p in sorted((root/'scripts').glob('*.py'))}
- facts['requirements']=(root/'requirements.txt').read_text()
- return digest(facts)
+ from provenance import source_hash as compute
+ return compute(root)
 def read_all(root):
  s=load(root);steps=json.loads((root/SOURCE_PATHS[1]).read_text());refs=json.loads((root/SOURCE_PATHS[2]).read_text());validate(s,steps);return s,steps,refs
 
@@ -111,6 +109,8 @@ def build(root=ROOT,out=None):
  save('manual/index.md','\n'.join(idx)+'\n')
  save('docs/RESEARCH.md','# Sewing research\n\nManufacturer guidance and standards catalog references; not a certification claim.\n\n'+'\n\n'.join(f"### {r['id']} - {r['title']}\n\n[{r['url']}]({r['url']})\n\n{r['use']} Accessed {r['accessed']}." for r in refs)+'\n\nProject choices: quarter-inch prototype allowances, open folded edge bands, full-height back insert, turned and zigzagged pocket attachments. These are not requirements imposed by a cited standard.\n')
  save('manual/page-manifest.json',json.dumps({'revision':rev,'source_hash':source_hash(root),'pages':[{'number':i+1,'title':t,'file':'pages/'+fn} for i,(t,fn) in enumerate(zip(titles,filenames))]},indent=2)+'\n')
+ from drafting import generate
+ for path,data in generate(root).items():save(path,data)
  manifest={'revision':rev,'source_hash':source_hash(root),'outputs':{k:hashlib.sha256(v).hexdigest() for k,v in sorted(generated.items())}}
  save('design/generated-manifest.json',json.dumps(manifest,indent=2)+'\n')
  for path,data in generated.items():

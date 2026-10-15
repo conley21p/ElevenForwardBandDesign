@@ -1,0 +1,32 @@
+{
+  "files": {
+    "ease-00-simulation-5.0mm.blend": {
+      "sha256": "c3e801dbd43d6098478d8af098a2b7ca1fdbd977b16f0860390c4f855c9e96e3",
+      "url": "https://github.com/conley21p/ElevenForwardBandDesign/releases/download/r3-patterns-and-3d/ease-00-simulation-5.0mm.blend"
+    },
+    "ease-05-simulation-5.0mm.blend": {
+      "sha256": "4bfc4a39e08c635280a5461631a23436f2627db7c91f06928c16cb643c931d15",
+      "url": "https://github.com/conley21p/ElevenForwardBandDesign/releases/download/r3-patterns-and-3d/ease-05-simulation-5.0mm.blend"
+    },
+    "ease-10-simulation-5.0mm.blend": {
+      "sha256": "4b3da5b9620fcae5f5fe907178d154981edaf2c983c6a6964e6bd9e0a2d52ac8",
+      "url": "https://github.com/conley21p/ElevenForwardBandDesign/releases/download/r3-patterns-and-3d/ease-10-simulation-5.0mm.blend"
+    },
+    "ease-05-simulation-2.5mm.blend": {
+      "sha256": "c3e0596fc24ccb3af0923b6e712fd9e53b0411898bde5cd4958a44333c79740e",
+      "url": "https://github.com/conley21p/ElevenForwardBandDesign/releases/download/r3-patterns-and-3d/ease-05-simulation-2.5mm.blend"
+    },
+    "assembly-1080p.mp4": {
+      "sha256": "ab760bb139311376df9983bc479633ebb455b1190d399d343a50377dadc3fa7f",
+      "url": "https://github.com/conley21p/ElevenForwardBandDesign/releases/download/r3-patterns-and-3d/assembly-1080p.mp4"
+    },
+    "assembly-4k.mp4": {
+      "sha256": "3fdc60179c825108bf39e102d94ffb417ff19a86a2fb49c05f60c204611a9a90",
+      "url": "https://github.com/conley21p/ElevenForwardBandDesign/releases/download/r3-patterns-and-3d/assembly-4k.mp4"
+    },
+    "assembly-captions.srt": {
+      "sha256": "61ce12d238de2c85079616c62e2544f84961d87c6fabe2207d1ce6a94f2719f4",
+      "url": "https://github.com/conley21p/ElevenForwardBandDesign/releases/download/r3-patterns-and-3d/assembly-captions.srt"
+    }
+  }
+}

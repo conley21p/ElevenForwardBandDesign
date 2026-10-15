@@ -64,7 +64,7 @@
     "operation": "CUT",
     "diagram": "cut",
     "actions": [
-      "Use the catalog cutting outlines, not the finished seam-line silhouettes. Cut two identical open #3 strips.",
+      "Use the matching full-scale pattern variant, never the screen diagram. Cut two identical open #3 strips; do not mix variants.",
       "Transfer center-front, pouch-zone boundaries, band midpoints and back-insert section marks into allowances.",
       "Keep both support cutouts on the diagram left when viewed from inside. Mirror vertically for the upper support.",
       "Mark free insertion edges in removable chalk. Do not snip notches into the finished seam line."
@@ -409,7 +409,7 @@
     "actions": [
       "Secure every overlock and coverstitch end using the approved machine method; trim only loose tails.",
       "Inspect side joins and band junctions for needle damage, seam cuts and missed layers.",
-      "Use a qualified coverstitch only where a sample shows a comfort benefit from holding allowance flat.",
+      "{allowance_lay} Hold allowances flat only after coupon approval.",
       "Keep fold edges and the exterior clean; decoration is optional and must not limit stretch."
     ],
     "checks": [

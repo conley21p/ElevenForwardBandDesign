@@ -1,5 +1,5 @@
 {
-  "revision": "EFBD-2026-10-14-R2",
+  "revision": "EFBD-2026-10-14-R3",
   "units": "in",
   "scale": 30,
   "status": "documented",
@@ -231,5 +231,11 @@
       "status": "requires retest",
       "evidence": null
     }
+  },
+  "seam_finishing": {
+    "body_band": "toward_body",
+    "back_join": "toward_main",
+    "support": "turned_under",
+    "back_hem": "turned_under"
   }
 }

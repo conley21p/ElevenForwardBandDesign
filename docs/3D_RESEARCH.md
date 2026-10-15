@@ -1,0 +1,15 @@
+# Drafting and rendering research
+
+Reviewed 2026-10-14. Manufacturer/project documentation supports workflow capability, not physical product certification.
+
+- [Seamly2D official source and releases](https://github.com/FashionFreedom/Seamly2D): GPLv3+, macOS support, parametric individual measurements. Version 2026.10.12.200 was downloaded and executed for this project. Native extensions are `.sm2d` and `.smis`.
+- [Seamly SVG/DXF metadata issue](https://github.com/FashionFreedom/Seamly2D/issues/1567): motivates separate seam/operation identifiers and independent geometry checks. The actual CLI lists flat DXF and AAMA formats. Our deterministic interchange file is plain R12, not an AAMA certification claim.
+- [Native pattern schema](https://github.com/FashionFreedom/Seamly2D/blob/develop/src/libs/ifc/schema/pattern/v0.6.8.xsd): formula-driven points, pieces and node-specific allowances. Real application exports caught a malformed zero-allowance pocket contour; this repository uses a validated bridge offset instead.
+- [Blender cloth shape/sewing documentation](https://docs.blender.org/manual/en/5.0/physics/cloth/settings/shape.html): loose, faceless edges act as sewing springs; bounded forces avoid instability. The installed 4.5.14 API was inspected and used rather than assuming later-version property names.
+- [Blender cloth physical properties](https://docs.blender.org/manual/en/5.3/physics/cloth/settings/physical_properties.html): stiffness and damping controls describe simulation behavior. The installed API explicitly describes mass as mass of each vertex. We distribute a provisional GSM-derived panel mass over the simulation vertices; no generic preset is treated as an experimentally measured textile law.
+- [MakeHuman/MPFB official license](https://static.makehumancommunity.org/about/license.html) and retained upstream CC0 asset license: core graphics can be used and modified; software licensing is separate. The mesh and selected targets carry their own CC0 notices. No community skin/clothing packs were added.
+- [Bystedt creator listing](https://3dbystedt.gumroad.com/l/bystedtsClothBuilder): $0+ listing confirms availability; it does not establish compatibility or a redistribution license. Not a required dependency.
+
+The suggested Sewell add-on could not be established from a reliable primary source and is not included. Simply Cloth Studio is not needed by this free/open-source workflow. Parametric CAD and Blender can provide precise geometry and useful visual studies; physical stretch prediction still needs measured directional material behavior and real garment sample validation.
+
+Project-selected values include trial negative ease, provisional wearing height, quarter-inch allowances, approximate GSM/thickness/stiffness, mesh spacing, sewing force limit, lighting and render settings. They are recorded as assumptions rather than requirements imposed by standards. Existing sewing research and ISO terminology references remain in the assembly manual.

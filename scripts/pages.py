@@ -96,7 +96,7 @@ def mini(a,s,mode,stage,x,y,w,h):
   if stage==2:a.text(x+8,y+145,'Check before continuing',7,True,GREEN)
 
 def step_page(s,st,idx):
- d=derived(s);vals={k:n(round(v,3)) for k,v in d.items()};a=Art();rev=s['revision'];op=s['operations'][st['operation']]
+ d=derived(s);vals={k:n(round(v,3)) for k,v in d.items()};vals['allowance_lay']=finishing_note(s);a=Art();rev=s['revision'];op=s['operations'][st['operation']]
  a.header(f"Assembly / Step {st['number']:02}",st['title'],f"Parts {', '.join('#'+k for k in st['parts'])}  |  {st['operation']}: {op['machine']}",rev,idx)
  for j,l in enumerate(['BEFORE','ACTION','CHECKED RESULT']):
   x=32+j*148;a.rect(x,119,140,192,'#f1f5f6');a.text(x+8,135,l,8,True,BLUE);mini(a,s,st['diagram'],j,x,145,140,160)
